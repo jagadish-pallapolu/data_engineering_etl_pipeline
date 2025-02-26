@@ -4,23 +4,26 @@
 This project is designed to automate the ingestion, storage, transformation, and orchestration of retail transaction data from an on-premise UNIX server to Google Cloud. The solution utilizes Google Cloud Storage (GCS), BigQuery, and Cloud Composer (Airflow) to enable data analysis and reporting on consumer spending trends before and after interest rate changes.
 
 ## Architecture
+### Diagram
+![alt text](GCP_ETL.drawio.png "Architecture")
+
 
 ### **High-Level Architecture Diagram**
 
 ```
 +-------------------+       +-------------------+        +-------------------+
-|  UNIX Server     |  ---> | Google Cloud      |  --->  | Google BigQuery   |
-| (Transaction     |       | Storage (GCS)     |        | (Data Warehouse)  |
-| Data Source)     |       | (Raw Data)        |        | (Transformation)  |
+|  UNIX Server      |  ---> | Google Cloud      |  --->  |  Cloud Composer   |
+| (Transaction      |       | Storage (GCS)     |        |  (Airflow DAGs)   |
+| Data Source)      |       | (Raw Data)        |        | (Orchestration)   |
 +-------------------+       +-------------------+        +-------------------+
-       |                                                        |
-       |                                                        v
+                                    ^                           |
+        ____________________________|                           v
        |                                               +------------------+
-       |                                               | Cloud Composer   |
-       |                                               | (Airflow DAGs)   |
-       |                                               | (Orchestration)  |
+       |                                               | Google BigQuery   |
+       |                                               | (Data Warehouse)  |
+       |                                               | (Transformation)  |
        |                                               +------------------+
-       v
+       |
 +-------------------+
 | External Vendor  |  --->  (Monthly Economic Data Ingestion)
 | (Macroeconomics  |
@@ -62,8 +65,12 @@ This project is deployed using **Terraform** for infrastructure provisioning.
    terraform init
    terraform apply
    ```
-3. Verify Cloud Composer, GCS, and BigQuery resources are created.
-4. Deploy Airflow DAGs by copying them to the Composer environment.
+3. Install Python Packages for Local setup
+   ```sh
+   pip install requirments.txt
+   ```
+4. Verify Cloud Composer, GCS, and BigQuery resources are created.
+5. Deploy Airflow DAGs by copying them to the Composer environment.
 
 ## Repository Structure
 ```
