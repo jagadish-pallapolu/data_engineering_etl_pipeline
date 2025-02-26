@@ -1,0 +1,1001 @@
+Transaction_ID,Transaction_Date,Amount (AUD),Merchant,Payment_Method,Terminal_ID,Location,Merchant_Type,Risk_Score (1-10)
+TXN880626,2024-01-27,76.37,Online Store,Net Banking,TERM601,"Melbourne, VIC",Fuel Station,5
+TXN748276,2024-01-03,35.75,Restaurant,Credit Card,TERM642,"Adelaide, SA",Dining,2
+TXN245610,2024-02-19,264.87,Supermarket,Debit Card,TERM414,"Adelaide, SA",Fuel Station,10
+TXN708720,2024-01-04,109.19,Supermarket,UPI,TERM347,"Brisbane, QLD",Retail Grocery,10
+TXN697129,2024-02-03,150.49,Supermarket,Net Banking,TERM289,"Brisbane, QLD",Dining,8
+TXN922926,2024-01-17,361.88,Supermarket,Cash,TERM722,"Adelaide, SA",Dining,3
+TXN975559,2024-02-08,456.89,Electronics,Cash,TERM646,"Brisbane, QLD",Fashion,6
+TXN240334,2024-02-09,204.15,Electronics,Net Banking,TERM512,"Sydney, NSW",Retail Grocery,3
+TXN333331,2024-01-19,439.28,Supermarket,Credit Card,TERM287,"Sydney, NSW",Fuel Station,9
+TXN859708,2024-02-14,185.27,Clothing,Cash,TERM624,"Perth, WA",Electronics,3
+TXN467887,2024-02-09,220.23,Supermarket,Debit Card,TERM184,"Brisbane, QLD",Electronics,1
+TXN102557,2024-01-16,413.58,Electronics,Credit Card,TERM597,"Sydney, NSW",E-Commerce,9
+TXN600045,2024-02-09,282.2,Restaurant,Debit Card,TERM316,"Adelaide, SA",Fuel Station,1
+TXN726783,2024-02-01,30.72,Clothing,Credit Card,TERM487,"Sydney, NSW",Retail Grocery,2
+TXN916344,2024-02-16,486.75,Restaurant,Debit Card,TERM611,"Sydney, NSW",Retail Grocery,8
+TXN575774,2024-01-16,263.42,Supermarket,Debit Card,TERM875,"Adelaide, SA",Electronics,6
+TXN153893,2024-01-07,321.22,Electronics,Credit Card,TERM498,"Brisbane, QLD",Electronics,4
+TXN305570,2024-01-16,367.34,Clothing,Net Banking,TERM656,"Melbourne, VIC",Electronics,8
+TXN114291,2024-02-05,334.69,Restaurant,Net Banking,TERM490,"Adelaide, SA",Fuel Station,9
+TXN716242,2024-01-03,360.91,Online Store,Cash,TERM800,"Melbourne, VIC",E-Commerce,7
+TXN479505,2024-02-17,189.99,Supermarket,UPI,TERM272,"Melbourne, VIC",E-Commerce,7
+TXN375601,2024-01-20,364.72,Electronics,Credit Card,TERM625,"Sydney, NSW",E-Commerce,1
+TXN851610,2024-02-02,243.11,Electronics,Cash,TERM810,"Perth, WA",Fashion,3
+TXN627057,2024-01-22,29.11,Supermarket,Debit Card,TERM895,"Melbourne, VIC",Dining,3
+TXN629883,2024-01-13,18.92,Clothing,Net Banking,TERM598,"Sydney, NSW",Retail Grocery,3
+TXN929087,2024-02-06,90.51,Restaurant,Net Banking,TERM297,"Adelaide, SA",Fashion,9
+TXN686687,2024-01-06,441.97,Restaurant,Debit Card,TERM226,"Adelaide, SA",E-Commerce,9
+TXN859704,2024-01-22,28.29,Clothing,Debit Card,TERM235,"Adelaide, SA",Electronics,7
+TXN770926,2024-01-31,455.24,Electronics,UPI,TERM214,"Perth, WA",Fuel Station,1
+TXN865163,2024-01-28,224.29,Supermarket,UPI,TERM913,"Sydney, NSW",Retail Grocery,1
+TXN277463,2024-01-04,396.02,Supermarket,Debit Card,TERM205,"Adelaide, SA",Fashion,9
+TXN109988,2024-02-13,202.87,Supermarket,UPI,TERM398,"Melbourne, VIC",Dining,10
+TXN582401,2024-02-15,239.42,Clothing,Cash,TERM694,"Brisbane, QLD",Fashion,9
+TXN125124,2024-01-31,115.89,Electronics,Debit Card,TERM745,"Brisbane, QLD",Dining,2
+TXN591563,2024-01-15,56.34,Restaurant,Credit Card,TERM560,"Melbourne, VIC",Fashion,9
+TXN193873,2024-01-30,287.8,Clothing,Net Banking,TERM809,"Melbourne, VIC",Retail Grocery,9
+TXN229120,2024-01-17,166.42,Supermarket,Cash,TERM576,"Sydney, NSW",Fuel Station,6
+TXN632327,2024-02-07,359.99,Electronics,UPI,TERM184,"Adelaide, SA",Dining,6
+TXN353663,2024-01-12,484.31,Restaurant,Cash,TERM808,"Melbourne, VIC",Dining,9
+TXN189844,2024-02-07,157.09,Clothing,UPI,TERM259,"Melbourne, VIC",Electronics,3
+TXN684359,2024-02-14,277.32,Supermarket,Cash,TERM821,"Melbourne, VIC",Electronics,1
+TXN488332,2024-02-06,294.92,Clothing,Debit Card,TERM329,"Sydney, NSW",Retail Grocery,2
+TXN979625,2024-01-15,115.28,Restaurant,Cash,TERM488,"Perth, WA",Dining,7
+TXN980441,2024-01-16,456.95,Online Store,Net Banking,TERM977,"Sydney, NSW",Fashion,1
+TXN161617,2024-01-13,179.98,Electronics,UPI,TERM198,"Melbourne, VIC",E-Commerce,4
+TXN893047,2024-02-08,288.72,Electronics,Debit Card,TERM434,"Sydney, NSW",Dining,3
+TXN847836,2024-01-28,479.79,Online Store,Net Banking,TERM343,"Sydney, NSW",Dining,4
+TXN500945,2024-01-02,466.55,Electronics,Debit Card,TERM539,"Sydney, NSW",Fashion,8
+TXN464214,2024-01-19,27.74,Online Store,Net Banking,TERM912,"Brisbane, QLD",Electronics,10
+TXN160731,2024-02-05,76.48,Online Store,Cash,TERM748,"Melbourne, VIC",E-Commerce,6
+TXN172087,2024-01-13,454.44,Online Store,UPI,TERM174,"Melbourne, VIC",Electronics,6
+TXN281616,2024-02-01,347.22,Clothing,Cash,TERM376,"Melbourne, VIC",E-Commerce,10
+TXN124657,2024-02-17,185.04,Restaurant,Debit Card,TERM790,"Adelaide, SA",E-Commerce,8
+TXN453931,2024-01-26,26.47,Online Store,UPI,TERM183,"Adelaide, SA",Retail Grocery,1
+TXN660555,2024-01-06,287.32,Electronics,Cash,TERM520,"Sydney, NSW",Fashion,7
+TXN418529,2024-01-25,351.94,Electronics,UPI,TERM624,"Sydney, NSW",Electronics,6
+TXN455222,2024-02-08,20.2,Online Store,Debit Card,TERM366,"Perth, WA",Retail Grocery,5
+TXN920815,2024-01-25,317.38,Supermarket,Credit Card,TERM377,"Perth, WA",Fuel Station,7
+TXN996258,2024-02-02,189.57,Restaurant,UPI,TERM395,"Perth, WA",Fashion,2
+TXN301974,2024-01-26,323.81,Supermarket,UPI,TERM797,"Perth, WA",Dining,6
+TXN570536,2024-02-02,191.56,Restaurant,Cash,TERM434,"Adelaide, SA",Electronics,5
+TXN403678,2024-02-20,415.92,Supermarket,Cash,TERM999,"Perth, WA",Dining,10
+TXN225006,2024-02-07,362.04,Restaurant,Net Banking,TERM625,"Brisbane, QLD",Dining,1
+TXN413018,2024-01-27,61.38,Supermarket,UPI,TERM517,"Perth, WA",Electronics,10
+TXN164621,2024-01-30,129.86,Restaurant,UPI,TERM339,"Brisbane, QLD",Dining,1
+TXN662783,2024-01-26,60.49,Online Store,Debit Card,TERM243,"Brisbane, QLD",Electronics,4
+TXN619724,2024-02-18,211.71,Supermarket,UPI,TERM457,"Adelaide, SA",Fuel Station,6
+TXN393898,2024-01-14,130.83,Restaurant,Credit Card,TERM898,"Melbourne, VIC",Fashion,9
+TXN587604,2024-01-25,50.1,Restaurant,Credit Card,TERM355,"Perth, WA",Retail Grocery,9
+TXN690581,2024-02-01,458.86,Online Store,UPI,TERM880,"Melbourne, VIC",Dining,1
+TXN646988,2024-02-05,134.31,Electronics,Cash,TERM432,"Adelaide, SA",Retail Grocery,1
+TXN428712,2024-02-05,330.12,Restaurant,Net Banking,TERM146,"Sydney, NSW",Fuel Station,7
+TXN654524,2024-02-13,354.88,Restaurant,Debit Card,TERM365,"Melbourne, VIC",Retail Grocery,4
+TXN532843,2024-02-03,459.49,Clothing,Credit Card,TERM870,"Adelaide, SA",Dining,9
+TXN994951,2024-02-20,304.41,Electronics,Net Banking,TERM652,"Brisbane, QLD",Dining,10
+TXN451132,2024-02-06,191.91,Restaurant,Credit Card,TERM133,"Perth, WA",Electronics,3
+TXN513442,2024-02-02,237.01,Restaurant,Credit Card,TERM932,"Sydney, NSW",Retail Grocery,8
+TXN267888,2024-02-17,210.96,Clothing,Net Banking,TERM696,"Perth, WA",Fashion,5
+TXN193592,2024-01-05,269.11,Online Store,Debit Card,TERM312,"Melbourne, VIC",Dining,10
+TXN517213,2024-01-19,161.41,Electronics,Net Banking,TERM774,"Sydney, NSW",Electronics,3
+TXN721667,2024-01-04,127.9,Electronics,Cash,TERM641,"Brisbane, QLD",Retail Grocery,9
+TXN600515,2024-02-06,419.14,Supermarket,Cash,TERM691,"Brisbane, QLD",Fuel Station,7
+TXN787951,2024-01-23,136.18,Restaurant,Credit Card,TERM632,"Perth, WA",Dining,4
+TXN327524,2024-02-12,299.04,Supermarket,Debit Card,TERM965,"Sydney, NSW",Fashion,9
+TXN897521,2024-02-11,473.05,Online Store,Net Banking,TERM187,"Sydney, NSW",E-Commerce,8
+TXN719986,2024-01-10,404.78,Electronics,Debit Card,TERM393,"Melbourne, VIC",E-Commerce,8
+TXN662878,2024-01-04,401.43,Online Store,Credit Card,TERM318,"Adelaide, SA",Fuel Station,8
+TXN767199,2024-02-17,297.35,Online Store,Cash,TERM791,"Perth, WA",Fuel Station,7
+TXN923596,2024-01-30,137.19,Restaurant,Debit Card,TERM629,"Adelaide, SA",E-Commerce,7
+TXN744738,2024-01-14,459.3,Restaurant,Debit Card,TERM292,"Perth, WA",Fuel Station,5
+TXN261075,2024-01-22,447.56,Supermarket,UPI,TERM900,"Melbourne, VIC",Fuel Station,1
+TXN339665,2024-01-30,182.49,Online Store,UPI,TERM525,"Brisbane, QLD",Fuel Station,6
+TXN292275,2024-01-09,156.79,Supermarket,Credit Card,TERM409,"Sydney, NSW",Electronics,5
+TXN212107,2024-01-17,145.03,Supermarket,Credit Card,TERM946,"Perth, WA",E-Commerce,1
+TXN706178,2024-02-05,305.51,Clothing,Credit Card,TERM283,"Sydney, NSW",Dining,5
+TXN327785,2024-01-13,22.92,Electronics,Cash,TERM203,"Melbourne, VIC",Electronics,10
+TXN556103,2024-02-12,330.5,Supermarket,Debit Card,TERM481,"Brisbane, QLD",Fashion,3
+TXN511800,2024-01-02,209.49,Electronics,Net Banking,TERM431,"Perth, WA",Fuel Station,3
+TXN165233,2024-01-03,228.69,Restaurant,Net Banking,TERM577,"Brisbane, QLD",E-Commerce,9
+TXN806750,2024-02-13,459.98,Restaurant,UPI,TERM992,"Brisbane, QLD",Fashion,3
+TXN368039,2024-02-19,84.32,Supermarket,Cash,TERM751,"Brisbane, QLD",Dining,9
+TXN442656,2024-01-01,268.69,Supermarket,Debit Card,TERM503,"Perth, WA",E-Commerce,9
+TXN215140,2024-01-18,100.21,Restaurant,UPI,TERM641,"Brisbane, QLD",Fashion,4
+TXN164341,2024-02-02,448.61,Supermarket,Credit Card,TERM596,"Sydney, NSW",Retail Grocery,10
+TXN594851,2024-02-14,212.31,Supermarket,Credit Card,TERM510,"Perth, WA",E-Commerce,3
+TXN774636,2024-02-18,459.66,Online Store,Debit Card,TERM169,"Brisbane, QLD",Retail Grocery,2
+TXN540620,2024-02-18,244.16,Electronics,UPI,TERM415,"Perth, WA",Retail Grocery,4
+TXN217654,2024-01-26,372.75,Clothing,Credit Card,TERM826,"Sydney, NSW",E-Commerce,2
+TXN671607,2024-02-09,378.26,Online Store,Cash,TERM839,"Perth, WA",E-Commerce,9
+TXN597115,2024-01-21,63.7,Restaurant,Credit Card,TERM972,"Brisbane, QLD",Fuel Station,6
+TXN239238,2024-02-01,152.74,Restaurant,UPI,TERM322,"Perth, WA",Fashion,4
+TXN659314,2024-01-02,253.02,Online Store,Debit Card,TERM633,"Adelaide, SA",Dining,2
+TXN133710,2024-01-08,8.57,Restaurant,UPI,TERM335,"Adelaide, SA",Dining,8
+TXN677732,2024-01-07,129.21,Online Store,Credit Card,TERM198,"Adelaide, SA",Retail Grocery,5
+TXN621057,2024-01-12,433.93,Online Store,Net Banking,TERM409,"Sydney, NSW",E-Commerce,1
+TXN287669,2024-02-17,170.91,Restaurant,Net Banking,TERM536,"Perth, WA",Dining,2
+TXN275201,2024-02-01,27.38,Online Store,Debit Card,TERM497,"Adelaide, SA",Dining,10
+TXN726181,2024-01-08,257.34,Online Store,Debit Card,TERM461,"Perth, WA",Dining,3
+TXN487988,2024-02-03,438.99,Clothing,Net Banking,TERM344,"Brisbane, QLD",Fashion,5
+TXN405881,2024-01-06,415.54,Online Store,Credit Card,TERM861,"Melbourne, VIC",Fashion,5
+TXN752631,2024-01-06,401.99,Clothing,Credit Card,TERM726,"Brisbane, QLD",Fashion,4
+TXN432344,2024-02-03,372.54,Online Store,Credit Card,TERM176,"Adelaide, SA",Fashion,5
+TXN331018,2024-02-08,348.3,Electronics,Debit Card,TERM659,"Adelaide, SA",Electronics,5
+TXN752253,2024-02-13,289.74,Restaurant,Cash,TERM321,"Sydney, NSW",Dining,4
+TXN214395,2024-01-30,79.18,Supermarket,Cash,TERM391,"Sydney, NSW",E-Commerce,8
+TXN857701,2024-01-22,272.52,Clothing,Credit Card,TERM945,"Sydney, NSW",Fuel Station,7
+TXN166249,2024-02-05,470.89,Online Store,Cash,TERM167,"Adelaide, SA",Electronics,3
+TXN440521,2024-01-12,269.62,Supermarket,Net Banking,TERM886,"Brisbane, QLD",Fashion,9
+TXN202840,2024-01-09,77.7,Online Store,Cash,TERM932,"Adelaide, SA",Dining,4
+TXN382054,2024-01-28,302.62,Supermarket,Cash,TERM887,"Melbourne, VIC",Fuel Station,7
+TXN720477,2024-01-06,10.73,Online Store,Credit Card,TERM160,"Perth, WA",Dining,10
+TXN830658,2024-02-15,400.83,Restaurant,Cash,TERM728,"Sydney, NSW",Retail Grocery,3
+TXN299771,2024-01-01,90.92,Restaurant,UPI,TERM400,"Melbourne, VIC",Fuel Station,6
+TXN464764,2024-02-13,268.75,Restaurant,Net Banking,TERM496,"Melbourne, VIC",E-Commerce,3
+TXN183893,2024-01-23,446.46,Supermarket,Credit Card,TERM556,"Adelaide, SA",E-Commerce,6
+TXN121177,2024-02-09,227.1,Supermarket,UPI,TERM763,"Perth, WA",Retail Grocery,5
+TXN872616,2024-01-09,35.05,Online Store,Debit Card,TERM556,"Adelaide, SA",Retail Grocery,1
+TXN324765,2024-01-14,222.15,Supermarket,Net Banking,TERM157,"Adelaide, SA",Dining,4
+TXN908048,2024-02-17,32.37,Restaurant,Credit Card,TERM459,"Brisbane, QLD",Fashion,2
+TXN435036,2024-01-07,444.89,Restaurant,UPI,TERM871,"Adelaide, SA",Retail Grocery,4
+TXN818869,2024-02-11,324.25,Electronics,UPI,TERM453,"Melbourne, VIC",Fuel Station,3
+TXN102129,2024-01-05,162.2,Restaurant,Credit Card,TERM143,"Sydney, NSW",Dining,2
+TXN702295,2024-02-10,437.49,Electronics,Credit Card,TERM199,"Perth, WA",Fuel Station,7
+TXN364153,2024-02-20,76.68,Clothing,Credit Card,TERM898,"Brisbane, QLD",Fashion,6
+TXN651928,2024-01-23,37.33,Restaurant,Cash,TERM715,"Melbourne, VIC",Electronics,7
+TXN499996,2024-01-20,426.69,Supermarket,Credit Card,TERM299,"Brisbane, QLD",Fashion,4
+TXN302349,2024-01-04,352.02,Online Store,Net Banking,TERM934,"Perth, WA",Dining,6
+TXN632257,2024-01-08,122.28,Supermarket,Net Banking,TERM567,"Perth, WA",Dining,6
+TXN994472,2024-02-02,60.27,Online Store,Debit Card,TERM990,"Perth, WA",Electronics,1
+TXN626397,2024-02-06,82.04,Restaurant,Credit Card,TERM193,"Melbourne, VIC",Retail Grocery,4
+TXN551583,2024-02-19,439.56,Electronics,UPI,TERM410,"Sydney, NSW",Retail Grocery,6
+TXN715405,2024-01-31,141.9,Clothing,UPI,TERM731,"Perth, WA",Fashion,6
+TXN481387,2024-01-18,401.16,Online Store,Cash,TERM533,"Perth, WA",Retail Grocery,4
+TXN758397,2024-02-03,316.8,Electronics,Cash,TERM480,"Sydney, NSW",Fashion,9
+TXN773567,2024-01-05,35.19,Restaurant,UPI,TERM169,"Adelaide, SA",E-Commerce,4
+TXN577924,2024-01-28,60.26,Electronics,Debit Card,TERM857,"Sydney, NSW",E-Commerce,3
+TXN415428,2024-01-28,349.16,Online Store,UPI,TERM222,"Brisbane, QLD",Fashion,2
+TXN616897,2024-01-13,357.61,Supermarket,UPI,TERM592,"Sydney, NSW",Retail Grocery,10
+TXN398509,2024-02-11,445.49,Online Store,Debit Card,TERM761,"Brisbane, QLD",Fashion,4
+TXN699884,2024-02-12,439.32,Online Store,Debit Card,TERM249,"Brisbane, QLD",Retail Grocery,3
+TXN658715,2024-01-04,453.17,Clothing,Credit Card,TERM158,"Brisbane, QLD",Dining,1
+TXN406557,2024-02-17,115.89,Electronics,Net Banking,TERM346,"Perth, WA",Electronics,2
+TXN856526,2024-02-03,212.33,Electronics,UPI,TERM263,"Adelaide, SA",Dining,5
+TXN912183,2024-01-03,268.38,Electronics,UPI,TERM500,"Melbourne, VIC",Dining,10
+TXN794710,2024-01-21,389.48,Electronics,Debit Card,TERM238,"Melbourne, VIC",Fuel Station,1
+TXN436798,2024-01-08,452.08,Clothing,UPI,TERM157,"Brisbane, QLD",Retail Grocery,6
+TXN120073,2024-01-26,305.52,Supermarket,Cash,TERM938,"Perth, WA",Retail Grocery,4
+TXN826047,2024-01-24,183.91,Online Store,UPI,TERM638,"Melbourne, VIC",E-Commerce,8
+TXN774570,2024-02-07,356.98,Electronics,Debit Card,TERM904,"Perth, WA",Dining,3
+TXN321476,2024-02-01,114.37,Restaurant,UPI,TERM220,"Brisbane, QLD",Fuel Station,4
+TXN569872,2024-01-07,287.41,Restaurant,Cash,TERM571,"Melbourne, VIC",E-Commerce,5
+TXN541140,2024-02-10,374.88,Electronics,Net Banking,TERM874,"Adelaide, SA",E-Commerce,2
+TXN509014,2024-01-01,38.72,Clothing,UPI,TERM119,"Adelaide, SA",Dining,1
+TXN610215,2024-02-08,464.74,Restaurant,Debit Card,TERM436,"Adelaide, SA",Dining,4
+TXN625390,2024-01-15,235.02,Online Store,UPI,TERM301,"Melbourne, VIC",Retail Grocery,4
+TXN910789,2024-02-11,34.16,Online Store,Cash,TERM171,"Brisbane, QLD",Fuel Station,7
+TXN378239,2024-01-19,181.88,Electronics,Credit Card,TERM272,"Sydney, NSW",Electronics,9
+TXN971511,2024-01-10,50.21,Supermarket,Debit Card,TERM572,"Melbourne, VIC",Fuel Station,7
+TXN915419,2024-02-03,60.94,Clothing,Net Banking,TERM517,"Perth, WA",Dining,7
+TXN968315,2024-02-13,213.23,Restaurant,Cash,TERM184,"Sydney, NSW",Fashion,5
+TXN528672,2024-01-25,44.25,Restaurant,UPI,TERM600,"Sydney, NSW",Fashion,4
+TXN566342,2024-01-23,477.56,Electronics,Debit Card,TERM418,"Melbourne, VIC",Fuel Station,2
+TXN687248,2024-01-27,249.2,Supermarket,Net Banking,TERM283,"Sydney, NSW",Electronics,10
+TXN628778,2024-01-20,249.61,Supermarket,Debit Card,TERM363,"Brisbane, QLD",Retail Grocery,2
+TXN104805,2024-01-07,484.46,Restaurant,Credit Card,TERM930,"Melbourne, VIC",Fashion,5
+TXN707479,2024-01-19,32.61,Restaurant,Cash,TERM494,"Perth, WA",Fashion,10
+TXN380831,2024-01-09,240.34,Supermarket,UPI,TERM958,"Melbourne, VIC",Fuel Station,4
+TXN729937,2024-01-26,230.52,Online Store,UPI,TERM716,"Melbourne, VIC",Retail Grocery,7
+TXN595222,2024-02-10,468.09,Clothing,Credit Card,TERM794,"Melbourne, VIC",Fuel Station,8
+TXN434926,2024-01-13,223.0,Electronics,Credit Card,TERM480,"Adelaide, SA",Electronics,3
+TXN508865,2024-02-02,67.75,Clothing,UPI,TERM598,"Perth, WA",Dining,1
+TXN172941,2024-01-19,456.28,Online Store,Cash,TERM601,"Sydney, NSW",Dining,9
+TXN195409,2024-01-16,415.66,Online Store,Cash,TERM406,"Perth, WA",E-Commerce,5
+TXN864068,2024-01-09,28.57,Supermarket,Cash,TERM946,"Brisbane, QLD",Fashion,10
+TXN471989,2024-02-14,223.33,Supermarket,Debit Card,TERM843,"Perth, WA",E-Commerce,3
+TXN630066,2024-01-28,414.56,Electronics,Credit Card,TERM503,"Perth, WA",Fuel Station,1
+TXN730798,2024-01-04,335.23,Online Store,Net Banking,TERM195,"Sydney, NSW",Retail Grocery,6
+TXN552371,2024-01-23,165.32,Electronics,UPI,TERM900,"Adelaide, SA",E-Commerce,3
+TXN610525,2024-01-29,388.79,Restaurant,Cash,TERM918,"Sydney, NSW",Fuel Station,6
+TXN488103,2024-01-02,436.76,Restaurant,Cash,TERM338,"Adelaide, SA",Retail Grocery,9
+TXN786278,2024-02-19,21.59,Restaurant,Credit Card,TERM306,"Brisbane, QLD",E-Commerce,9
+TXN895225,2024-01-26,115.78,Supermarket,Net Banking,TERM536,"Brisbane, QLD",Electronics,9
+TXN171358,2024-01-16,439.99,Restaurant,Credit Card,TERM581,"Perth, WA",Retail Grocery,10
+TXN983857,2024-02-17,237.58,Electronics,Cash,TERM530,"Brisbane, QLD",Retail Grocery,6
+TXN513696,2024-01-04,263.62,Electronics,Cash,TERM606,"Melbourne, VIC",Electronics,4
+TXN641285,2024-02-12,422.8,Restaurant,Cash,TERM817,"Sydney, NSW",Electronics,8
+TXN278044,2024-01-05,417.02,Electronics,Net Banking,TERM150,"Adelaide, SA",Fuel Station,6
+TXN395177,2024-01-19,429.05,Clothing,Cash,TERM976,"Melbourne, VIC",Retail Grocery,6
+TXN460430,2024-01-19,476.16,Electronics,Debit Card,TERM894,"Sydney, NSW",Dining,8
+TXN479230,2024-02-10,454.31,Electronics,Net Banking,TERM993,"Adelaide, SA",Fuel Station,10
+TXN660885,2024-01-24,127.55,Clothing,UPI,TERM888,"Adelaide, SA",Fuel Station,6
+TXN571330,2024-02-05,383.65,Electronics,Cash,TERM872,"Perth, WA",E-Commerce,4
+TXN102347,2024-02-04,255.21,Clothing,Debit Card,TERM868,"Sydney, NSW",Dining,9
+TXN605739,2024-01-11,104.12,Electronics,Credit Card,TERM991,"Sydney, NSW",Dining,10
+TXN896917,2024-02-08,66.84,Clothing,Cash,TERM960,"Adelaide, SA",Fashion,6
+TXN704013,2024-02-01,213.29,Online Store,Credit Card,TERM381,"Brisbane, QLD",Fashion,4
+TXN379250,2024-01-15,334.77,Online Store,UPI,TERM408,"Perth, WA",Fashion,1
+TXN558231,2024-02-13,42.83,Clothing,Debit Card,TERM606,"Melbourne, VIC",Retail Grocery,4
+TXN720690,2024-02-12,248.3,Restaurant,Net Banking,TERM292,"Adelaide, SA",Fashion,7
+TXN520505,2024-01-11,244.79,Electronics,Debit Card,TERM928,"Perth, WA",E-Commerce,1
+TXN276580,2024-02-08,97.55,Online Store,Cash,TERM751,"Adelaide, SA",Fuel Station,5
+TXN424453,2024-01-13,264.65,Supermarket,UPI,TERM267,"Sydney, NSW",Fashion,3
+TXN565341,2024-02-10,305.61,Supermarket,Net Banking,TERM501,"Brisbane, QLD",Retail Grocery,5
+TXN863764,2024-01-28,140.35,Online Store,Credit Card,TERM448,"Adelaide, SA",Retail Grocery,3
+TXN674342,2024-01-30,14.79,Online Store,Cash,TERM150,"Sydney, NSW",Dining,1
+TXN114566,2024-02-11,210.37,Electronics,UPI,TERM589,"Perth, WA",Electronics,1
+TXN213120,2024-01-17,248.0,Electronics,Credit Card,TERM793,"Sydney, NSW",Fuel Station,1
+TXN518693,2024-02-17,385.79,Restaurant,Net Banking,TERM434,"Melbourne, VIC",Dining,3
+TXN318699,2024-01-31,20.83,Supermarket,Debit Card,TERM704,"Perth, WA",E-Commerce,2
+TXN888669,2024-01-21,215.0,Restaurant,Credit Card,TERM464,"Adelaide, SA",Electronics,9
+TXN852024,2024-01-29,169.81,Electronics,UPI,TERM674,"Melbourne, VIC",Fashion,8
+TXN367993,2024-01-08,105.02,Online Store,Cash,TERM595,"Sydney, NSW",Retail Grocery,2
+TXN698104,2024-01-05,419.29,Supermarket,UPI,TERM528,"Brisbane, QLD",Fuel Station,2
+TXN287449,2024-02-10,375.03,Clothing,UPI,TERM707,"Perth, WA",Electronics,5
+TXN563837,2024-01-18,229.43,Supermarket,Debit Card,TERM291,"Adelaide, SA",Fashion,6
+TXN403153,2024-01-31,417.15,Online Store,Debit Card,TERM709,"Brisbane, QLD",Retail Grocery,9
+TXN784158,2024-02-15,284.85,Restaurant,UPI,TERM608,"Brisbane, QLD",Retail Grocery,9
+TXN388419,2024-01-22,182.39,Online Store,Net Banking,TERM152,"Sydney, NSW",Dining,2
+TXN370922,2024-01-22,341.3,Restaurant,Cash,TERM286,"Brisbane, QLD",Retail Grocery,7
+TXN684742,2024-02-05,99.55,Online Store,Cash,TERM173,"Perth, WA",E-Commerce,8
+TXN669061,2024-02-16,421.43,Supermarket,Debit Card,TERM712,"Sydney, NSW",Fashion,7
+TXN167702,2024-02-19,409.32,Online Store,UPI,TERM726,"Perth, WA",Fashion,10
+TXN644365,2024-01-13,495.22,Restaurant,Credit Card,TERM609,"Adelaide, SA",Fuel Station,9
+TXN866612,2024-02-08,259.34,Restaurant,Credit Card,TERM910,"Sydney, NSW",Fashion,8
+TXN626367,2024-02-20,258.31,Online Store,Cash,TERM312,"Brisbane, QLD",Fuel Station,9
+TXN335827,2024-02-19,112.88,Supermarket,Net Banking,TERM528,"Perth, WA",Fashion,1
+TXN455185,2024-01-24,442.24,Electronics,Cash,TERM196,"Adelaide, SA",Fashion,3
+TXN601479,2024-01-10,397.03,Clothing,UPI,TERM154,"Melbourne, VIC",Retail Grocery,9
+TXN699166,2024-02-09,310.9,Restaurant,Debit Card,TERM160,"Melbourne, VIC",Dining,2
+TXN245972,2024-01-03,197.7,Restaurant,Cash,TERM582,"Perth, WA",Retail Grocery,9
+TXN106529,2024-01-23,300.89,Online Store,Credit Card,TERM864,"Melbourne, VIC",Electronics,3
+TXN493324,2024-01-03,125.37,Clothing,Net Banking,TERM169,"Perth, WA",Electronics,8
+TXN312714,2024-02-15,433.22,Electronics,Net Banking,TERM469,"Melbourne, VIC",E-Commerce,10
+TXN185610,2024-02-11,23.49,Restaurant,Credit Card,TERM165,"Perth, WA",Electronics,10
+TXN204166,2024-01-16,38.68,Clothing,Cash,TERM201,"Melbourne, VIC",Retail Grocery,4
+TXN907505,2024-02-05,285.73,Supermarket,UPI,TERM519,"Adelaide, SA",Fuel Station,8
+TXN495758,2024-01-06,225.38,Online Store,Net Banking,TERM853,"Adelaide, SA",Electronics,9
+TXN677272,2024-01-18,89.34,Online Store,Cash,TERM994,"Sydney, NSW",E-Commerce,6
+TXN808123,2024-01-18,147.55,Electronics,Net Banking,TERM606,"Adelaide, SA",E-Commerce,2
+TXN283932,2024-01-03,212.07,Restaurant,UPI,TERM395,"Sydney, NSW",Fuel Station,7
+TXN204876,2024-01-14,469.18,Supermarket,UPI,TERM957,"Perth, WA",Fashion,2
+TXN345218,2024-01-10,306.75,Supermarket,Debit Card,TERM220,"Brisbane, QLD",E-Commerce,10
+TXN592908,2024-02-07,26.48,Restaurant,UPI,TERM889,"Melbourne, VIC",Fashion,7
+TXN997138,2024-01-21,166.44,Clothing,UPI,TERM896,"Brisbane, QLD",Fuel Station,1
+TXN875492,2024-02-14,62.96,Restaurant,Debit Card,TERM825,"Perth, WA",Electronics,6
+TXN694382,2024-02-10,217.18,Restaurant,UPI,TERM624,"Brisbane, QLD",Fuel Station,5
+TXN872596,2024-01-18,371.92,Online Store,Credit Card,TERM999,"Perth, WA",E-Commerce,2
+TXN493442,2024-01-04,282.34,Electronics,Cash,TERM192,"Brisbane, QLD",Fuel Station,2
+TXN695495,2024-01-21,100.23,Clothing,UPI,TERM461,"Adelaide, SA",Fuel Station,1
+TXN313004,2024-01-04,263.36,Online Store,Net Banking,TERM657,"Perth, WA",Electronics,5
+TXN826187,2024-01-17,286.7,Supermarket,Debit Card,TERM869,"Adelaide, SA",Fashion,6
+TXN608438,2024-01-29,415.82,Online Store,Credit Card,TERM245,"Adelaide, SA",Fashion,6
+TXN582799,2024-01-29,48.23,Restaurant,Debit Card,TERM363,"Perth, WA",Fuel Station,9
+TXN831277,2024-01-12,485.45,Clothing,UPI,TERM370,"Adelaide, SA",Retail Grocery,9
+TXN740915,2024-02-11,336.15,Clothing,Net Banking,TERM958,"Perth, WA",E-Commerce,10
+TXN291947,2024-02-01,352.67,Supermarket,UPI,TERM696,"Adelaide, SA",Electronics,2
+TXN155031,2024-01-18,161.3,Clothing,Credit Card,TERM713,"Sydney, NSW",E-Commerce,2
+TXN963153,2024-01-06,277.19,Clothing,Cash,TERM474,"Brisbane, QLD",Electronics,2
+TXN921262,2024-01-03,381.97,Restaurant,Credit Card,TERM841,"Brisbane, QLD",E-Commerce,5
+TXN854183,2024-01-19,51.62,Electronics,Cash,TERM631,"Sydney, NSW",Electronics,9
+TXN788584,2024-01-18,425.54,Supermarket,Net Banking,TERM155,"Brisbane, QLD",Fuel Station,1
+TXN262700,2024-02-07,244.85,Supermarket,Cash,TERM293,"Adelaide, SA",Electronics,10
+TXN566238,2024-01-25,53.77,Online Store,Net Banking,TERM793,"Sydney, NSW",E-Commerce,3
+TXN363312,2024-02-20,234.26,Online Store,UPI,TERM185,"Perth, WA",Retail Grocery,8
+TXN691736,2024-01-20,34.63,Online Store,Net Banking,TERM117,"Melbourne, VIC",Electronics,7
+TXN149369,2024-02-11,184.86,Restaurant,UPI,TERM518,"Sydney, NSW",E-Commerce,4
+TXN322558,2024-01-18,176.55,Restaurant,UPI,TERM907,"Perth, WA",Retail Grocery,8
+TXN157179,2024-02-16,70.9,Clothing,Cash,TERM472,"Adelaide, SA",Fashion,3
+TXN458119,2024-01-20,197.72,Online Store,UPI,TERM403,"Adelaide, SA",E-Commerce,7
+TXN714924,2024-02-13,373.92,Restaurant,Debit Card,TERM410,"Melbourne, VIC",Retail Grocery,3
+TXN276950,2024-01-07,472.56,Online Store,Net Banking,TERM566,"Perth, WA",Fuel Station,2
+TXN961687,2024-02-19,257.69,Supermarket,Debit Card,TERM944,"Perth, WA",Electronics,3
+TXN818818,2024-02-14,355.57,Supermarket,UPI,TERM901,"Adelaide, SA",Dining,9
+TXN516720,2024-01-14,260.59,Electronics,Cash,TERM669,"Brisbane, QLD",E-Commerce,10
+TXN319429,2024-02-08,143.12,Restaurant,Net Banking,TERM859,"Perth, WA",Fuel Station,6
+TXN790483,2024-02-06,191.97,Supermarket,Net Banking,TERM617,"Brisbane, QLD",Fashion,5
+TXN740737,2024-01-08,149.9,Supermarket,Cash,TERM363,"Perth, WA",Fuel Station,3
+TXN562712,2024-01-30,104.46,Clothing,UPI,TERM568,"Sydney, NSW",Fashion,9
+TXN592032,2024-02-16,115.71,Electronics,Cash,TERM513,"Melbourne, VIC",Retail Grocery,3
+TXN855433,2024-01-27,491.84,Online Store,UPI,TERM959,"Perth, WA",Electronics,7
+TXN493848,2024-02-02,335.58,Electronics,UPI,TERM788,"Perth, WA",Dining,2
+TXN738325,2024-02-13,297.8,Restaurant,Credit Card,TERM698,"Melbourne, VIC",Electronics,5
+TXN124265,2024-02-02,185.96,Restaurant,UPI,TERM880,"Brisbane, QLD",Electronics,1
+TXN925266,2024-01-13,328.8,Supermarket,UPI,TERM881,"Perth, WA",Fuel Station,9
+TXN172948,2024-01-15,477.32,Restaurant,Net Banking,TERM492,"Perth, WA",E-Commerce,3
+TXN613107,2024-02-19,123.73,Electronics,UPI,TERM966,"Sydney, NSW",Fuel Station,2
+TXN575281,2024-01-28,64.49,Clothing,Credit Card,TERM700,"Perth, WA",Retail Grocery,2
+TXN268392,2024-01-30,457.35,Online Store,UPI,TERM277,"Perth, WA",Fashion,10
+TXN574205,2024-02-05,145.52,Online Store,UPI,TERM823,"Brisbane, QLD",Fuel Station,5
+TXN537469,2024-02-10,472.18,Electronics,UPI,TERM293,"Sydney, NSW",Fuel Station,6
+TXN751273,2024-01-23,411.79,Restaurant,Cash,TERM132,"Brisbane, QLD",Fuel Station,5
+TXN468947,2024-01-10,390.17,Online Store,Cash,TERM530,"Brisbane, QLD",E-Commerce,8
+TXN842388,2024-02-19,370.23,Restaurant,Net Banking,TERM350,"Brisbane, QLD",E-Commerce,8
+TXN886246,2024-01-21,310.54,Clothing,Debit Card,TERM499,"Melbourne, VIC",Electronics,10
+TXN969859,2024-01-12,189.38,Restaurant,Debit Card,TERM685,"Brisbane, QLD",Retail Grocery,2
+TXN492342,2024-02-03,463.03,Electronics,Credit Card,TERM469,"Perth, WA",Electronics,6
+TXN654693,2024-01-05,209.97,Clothing,Credit Card,TERM535,"Sydney, NSW",E-Commerce,7
+TXN167256,2024-01-20,150.85,Supermarket,Debit Card,TERM270,"Sydney, NSW",Fuel Station,10
+TXN495371,2024-01-20,381.31,Supermarket,Credit Card,TERM110,"Perth, WA",Electronics,1
+TXN378516,2024-02-07,138.81,Clothing,Net Banking,TERM100,"Perth, WA",Fuel Station,1
+TXN272634,2024-01-19,162.12,Online Store,UPI,TERM545,"Sydney, NSW",Dining,2
+TXN756944,2024-02-13,299.59,Restaurant,Debit Card,TERM812,"Adelaide, SA",Electronics,7
+TXN257961,2024-02-07,130.87,Electronics,Cash,TERM616,"Adelaide, SA",Dining,3
+TXN340530,2024-02-17,300.4,Supermarket,Cash,TERM260,"Brisbane, QLD",Fashion,1
+TXN653731,2024-01-07,456.75,Supermarket,Net Banking,TERM103,"Sydney, NSW",Fuel Station,8
+TXN659156,2024-01-15,204.13,Supermarket,Net Banking,TERM531,"Sydney, NSW",E-Commerce,6
+TXN571881,2024-01-28,188.31,Electronics,Cash,TERM362,"Adelaide, SA",Fuel Station,10
+TXN489249,2024-01-06,189.49,Electronics,Credit Card,TERM809,"Adelaide, SA",Retail Grocery,9
+TXN540442,2024-01-30,152.87,Restaurant,UPI,TERM213,"Perth, WA",E-Commerce,7
+TXN779686,2024-01-13,116.45,Online Store,Net Banking,TERM959,"Melbourne, VIC",E-Commerce,1
+TXN168303,2024-01-08,453.47,Restaurant,Cash,TERM923,"Adelaide, SA",Fuel Station,9
+TXN474260,2024-02-10,37.55,Supermarket,Net Banking,TERM544,"Sydney, NSW",Retail Grocery,10
+TXN201157,2024-02-06,458.88,Online Store,Net Banking,TERM591,"Perth, WA",E-Commerce,2
+TXN289101,2024-02-03,366.03,Electronics,UPI,TERM680,"Melbourne, VIC",Dining,10
+TXN194145,2024-02-11,156.01,Clothing,UPI,TERM201,"Sydney, NSW",Retail Grocery,7
+TXN606124,2024-02-19,400.35,Online Store,Cash,TERM746,"Adelaide, SA",Retail Grocery,5
+TXN165039,2024-01-28,396.29,Electronics,Net Banking,TERM465,"Adelaide, SA",Fuel Station,5
+TXN597655,2024-01-27,188.05,Restaurant,Credit Card,TERM473,"Sydney, NSW",Dining,8
+TXN884823,2024-02-04,201.49,Supermarket,Credit Card,TERM284,"Sydney, NSW",E-Commerce,8
+TXN336253,2024-01-04,40.31,Electronics,Net Banking,TERM569,"Melbourne, VIC",Fashion,2
+TXN665580,2024-01-28,69.41,Electronics,Credit Card,TERM817,"Sydney, NSW",Dining,1
+TXN549539,2024-02-08,294.14,Clothing,Net Banking,TERM835,"Perth, WA",Retail Grocery,1
+TXN336984,2024-01-03,179.29,Online Store,Cash,TERM364,"Brisbane, QLD",Electronics,9
+TXN297072,2024-02-03,335.38,Clothing,Debit Card,TERM526,"Brisbane, QLD",Dining,1
+TXN728559,2024-01-14,240.64,Restaurant,Net Banking,TERM411,"Brisbane, QLD",Fuel Station,10
+TXN264850,2024-01-23,276.89,Restaurant,Debit Card,TERM292,"Perth, WA",Fuel Station,4
+TXN783045,2024-02-02,148.56,Restaurant,Cash,TERM581,"Melbourne, VIC",Fashion,1
+TXN394702,2024-02-20,32.88,Online Store,Credit Card,TERM427,"Brisbane, QLD",Electronics,8
+TXN328095,2024-01-29,171.38,Online Store,UPI,TERM593,"Perth, WA",E-Commerce,3
+TXN690326,2024-01-07,264.29,Electronics,Debit Card,TERM591,"Perth, WA",Fashion,4
+TXN420921,2024-01-21,224.79,Supermarket,UPI,TERM849,"Adelaide, SA",Dining,1
+TXN896280,2024-02-10,498.03,Restaurant,Net Banking,TERM478,"Brisbane, QLD",E-Commerce,2
+TXN337011,2024-01-31,334.59,Supermarket,Net Banking,TERM870,"Melbourne, VIC",Retail Grocery,10
+TXN861334,2024-01-04,386.99,Restaurant,Debit Card,TERM373,"Sydney, NSW",Fuel Station,2
+TXN901477,2024-02-11,499.38,Clothing,Debit Card,TERM172,"Brisbane, QLD",Fuel Station,10
+TXN278205,2024-02-18,429.65,Electronics,Net Banking,TERM724,"Melbourne, VIC",Dining,2
+TXN674058,2024-01-12,144.51,Electronics,Net Banking,TERM424,"Brisbane, QLD",Fuel Station,7
+TXN890904,2024-01-26,459.16,Clothing,Credit Card,TERM545,"Melbourne, VIC",Dining,6
+TXN996895,2024-01-27,127.33,Electronics,UPI,TERM692,"Adelaide, SA",Electronics,3
+TXN524544,2024-02-05,254.88,Clothing,Cash,TERM363,"Adelaide, SA",Dining,7
+TXN726522,2024-01-27,456.73,Restaurant,Cash,TERM607,"Sydney, NSW",Retail Grocery,1
+TXN342698,2024-02-13,434.02,Clothing,Debit Card,TERM597,"Perth, WA",Fashion,8
+TXN860313,2024-01-25,368.46,Clothing,Cash,TERM344,"Brisbane, QLD",Retail Grocery,8
+TXN437620,2024-01-15,416.17,Restaurant,Cash,TERM856,"Melbourne, VIC",Fuel Station,2
+TXN769157,2024-01-17,190.15,Restaurant,Credit Card,TERM952,"Brisbane, QLD",Electronics,9
+TXN497740,2024-02-05,329.55,Online Store,Debit Card,TERM394,"Melbourne, VIC",Retail Grocery,1
+TXN602906,2024-02-16,289.76,Online Store,Credit Card,TERM510,"Adelaide, SA",E-Commerce,3
+TXN466555,2024-02-16,83.21,Online Store,Cash,TERM780,"Sydney, NSW",Dining,1
+TXN524733,2024-01-07,264.35,Electronics,Net Banking,TERM129,"Melbourne, VIC",Dining,9
+TXN391825,2024-02-18,124.77,Electronics,UPI,TERM808,"Melbourne, VIC",Fuel Station,4
+TXN374917,2024-01-26,268.06,Online Store,Credit Card,TERM515,"Sydney, NSW",Fashion,7
+TXN584259,2024-01-26,447.74,Restaurant,Cash,TERM997,"Brisbane, QLD",Retail Grocery,8
+TXN107121,2024-01-27,53.95,Online Store,Net Banking,TERM934,"Melbourne, VIC",Electronics,8
+TXN142812,2024-02-20,193.73,Electronics,Debit Card,TERM566,"Brisbane, QLD",Electronics,7
+TXN931859,2024-02-20,266.02,Electronics,Credit Card,TERM807,"Sydney, NSW",Dining,3
+TXN106994,2024-02-08,303.4,Supermarket,Debit Card,TERM346,"Perth, WA",Fuel Station,6
+TXN497028,2024-01-01,487.69,Online Store,Cash,TERM146,"Sydney, NSW",E-Commerce,5
+TXN366123,2024-02-13,381.35,Restaurant,UPI,TERM829,"Sydney, NSW",Retail Grocery,4
+TXN766025,2024-02-18,187.07,Restaurant,Debit Card,TERM992,"Sydney, NSW",Electronics,10
+TXN220072,2024-01-15,312.64,Restaurant,Debit Card,TERM180,"Adelaide, SA",Retail Grocery,5
+TXN239336,2024-02-05,11.32,Electronics,Credit Card,TERM297,"Melbourne, VIC",Dining,6
+TXN655111,2024-01-27,195.01,Restaurant,Debit Card,TERM969,"Brisbane, QLD",Dining,9
+TXN799094,2024-01-29,318.55,Electronics,Net Banking,TERM517,"Sydney, NSW",Fashion,8
+TXN677486,2024-01-13,271.68,Online Store,Cash,TERM442,"Brisbane, QLD",Retail Grocery,3
+TXN301775,2024-01-18,146.08,Electronics,UPI,TERM991,"Melbourne, VIC",Retail Grocery,4
+TXN275796,2024-02-08,345.49,Online Store,Credit Card,TERM301,"Melbourne, VIC",E-Commerce,9
+TXN870451,2024-01-27,101.16,Restaurant,Cash,TERM247,"Brisbane, QLD",Retail Grocery,9
+TXN907529,2024-01-20,178.38,Supermarket,UPI,TERM973,"Perth, WA",Dining,4
+TXN637128,2024-01-18,246.11,Restaurant,Debit Card,TERM750,"Perth, WA",E-Commerce,2
+TXN694938,2024-01-16,20.7,Online Store,Net Banking,TERM204,"Brisbane, QLD",Retail Grocery,4
+TXN967996,2024-02-05,281.2,Supermarket,Net Banking,TERM639,"Sydney, NSW",Fuel Station,6
+TXN965281,2024-01-01,365.2,Supermarket,Cash,TERM663,"Brisbane, QLD",Fuel Station,1
+TXN280555,2024-02-15,15.13,Electronics,UPI,TERM844,"Adelaide, SA",Dining,2
+TXN333127,2024-02-09,300.1,Supermarket,Credit Card,TERM290,"Melbourne, VIC",E-Commerce,9
+TXN563009,2024-01-01,352.82,Electronics,Net Banking,TERM276,"Perth, WA",Fashion,2
+TXN242468,2024-01-04,255.71,Electronics,Net Banking,TERM269,"Brisbane, QLD",Fashion,10
+TXN246438,2024-02-08,313.58,Restaurant,Net Banking,TERM662,"Sydney, NSW",Electronics,6
+TXN444565,2024-01-17,408.92,Electronics,Debit Card,TERM353,"Brisbane, QLD",Dining,5
+TXN323262,2024-01-08,277.15,Supermarket,UPI,TERM398,"Melbourne, VIC",Dining,5
+TXN515464,2024-01-05,489.5,Restaurant,Debit Card,TERM130,"Perth, WA",Retail Grocery,8
+TXN267557,2024-02-13,272.4,Supermarket,Debit Card,TERM751,"Brisbane, QLD",Retail Grocery,8
+TXN520380,2024-01-16,55.98,Restaurant,Cash,TERM466,"Brisbane, QLD",E-Commerce,8
+TXN660043,2024-01-20,32.39,Electronics,UPI,TERM956,"Adelaide, SA",Fashion,3
+TXN734420,2024-02-02,106.32,Online Store,UPI,TERM798,"Perth, WA",E-Commerce,3
+TXN884452,2024-02-08,421.86,Electronics,UPI,TERM915,"Sydney, NSW",Fashion,5
+TXN328506,2024-01-10,351.92,Clothing,Debit Card,TERM578,"Brisbane, QLD",E-Commerce,3
+TXN529402,2024-01-19,24.8,Supermarket,Credit Card,TERM987,"Melbourne, VIC",Fuel Station,3
+TXN260842,2024-02-15,227.93,Online Store,UPI,TERM601,"Melbourne, VIC",Dining,4
+TXN494129,2024-02-05,68.32,Electronics,Debit Card,TERM550,"Melbourne, VIC",Fuel Station,7
+TXN550980,2024-02-11,232.49,Clothing,Debit Card,TERM148,"Sydney, NSW",Dining,9
+TXN534197,2024-02-08,54.57,Clothing,Debit Card,TERM761,"Perth, WA",Electronics,5
+TXN634281,2024-02-18,164.84,Restaurant,Credit Card,TERM978,"Adelaide, SA",Retail Grocery,6
+TXN814486,2024-01-26,214.24,Online Store,Cash,TERM379,"Sydney, NSW",E-Commerce,5
+TXN252351,2024-01-20,294.32,Restaurant,Net Banking,TERM759,"Brisbane, QLD",Electronics,7
+TXN324808,2024-01-09,414.49,Clothing,Cash,TERM981,"Brisbane, QLD",E-Commerce,5
+TXN501814,2024-01-10,58.14,Online Store,Credit Card,TERM976,"Brisbane, QLD",Dining,3
+TXN347652,2024-02-02,495.36,Clothing,UPI,TERM848,"Perth, WA",Retail Grocery,4
+TXN247784,2024-01-29,254.0,Supermarket,Credit Card,TERM133,"Perth, WA",E-Commerce,5
+TXN164985,2024-01-30,86.93,Restaurant,Net Banking,TERM596,"Brisbane, QLD",Dining,1
+TXN120070,2024-01-15,219.27,Supermarket,UPI,TERM528,"Sydney, NSW",Fashion,8
+TXN895766,2024-01-10,350.33,Electronics,UPI,TERM993,"Adelaide, SA",Retail Grocery,7
+TXN935469,2024-01-13,144.09,Supermarket,Debit Card,TERM877,"Melbourne, VIC",Fashion,1
+TXN311371,2024-01-10,208.49,Clothing,Cash,TERM308,"Adelaide, SA",Dining,7
+TXN633253,2024-02-18,463.15,Supermarket,UPI,TERM748,"Brisbane, QLD",Retail Grocery,4
+TXN271912,2024-01-17,366.64,Clothing,Credit Card,TERM798,"Perth, WA",Electronics,4
+TXN637905,2024-02-04,331.22,Restaurant,Net Banking,TERM606,"Brisbane, QLD",Retail Grocery,6
+TXN422964,2024-01-25,311.16,Supermarket,Credit Card,TERM948,"Melbourne, VIC",E-Commerce,7
+TXN817403,2024-01-17,243.81,Restaurant,Net Banking,TERM726,"Brisbane, QLD",Fuel Station,8
+TXN767980,2024-01-03,236.89,Electronics,Debit Card,TERM235,"Brisbane, QLD",Dining,4
+TXN192637,2024-01-17,82.35,Online Store,UPI,TERM962,"Adelaide, SA",Fuel Station,9
+TXN984836,2024-02-18,350.5,Electronics,Debit Card,TERM546,"Adelaide, SA",Fuel Station,9
+TXN175518,2024-01-21,276.43,Restaurant,Cash,TERM132,"Perth, WA",Electronics,1
+TXN566479,2024-02-04,358.36,Restaurant,UPI,TERM133,"Brisbane, QLD",Retail Grocery,1
+TXN661871,2024-02-07,11.79,Clothing,Net Banking,TERM799,"Brisbane, QLD",Electronics,8
+TXN443846,2024-01-22,60.99,Clothing,Cash,TERM835,"Brisbane, QLD",E-Commerce,5
+TXN822860,2024-01-29,297.79,Supermarket,UPI,TERM143,"Brisbane, QLD",Fashion,6
+TXN959722,2024-01-25,187.98,Supermarket,Net Banking,TERM982,"Sydney, NSW",Dining,10
+TXN195324,2024-02-02,140.66,Restaurant,UPI,TERM151,"Sydney, NSW",Fuel Station,10
+TXN167012,2024-01-10,434.08,Supermarket,UPI,TERM228,"Perth, WA",E-Commerce,4
+TXN482717,2024-01-31,188.37,Clothing,Cash,TERM229,"Brisbane, QLD",Retail Grocery,7
+TXN717879,2024-01-30,315.43,Clothing,UPI,TERM389,"Perth, WA",Fashion,4
+TXN846159,2024-01-06,364.38,Online Store,Net Banking,TERM807,"Melbourne, VIC",Electronics,3
+TXN142083,2024-01-09,404.18,Clothing,UPI,TERM362,"Adelaide, SA",Dining,6
+TXN467102,2024-01-28,281.09,Electronics,Debit Card,TERM816,"Adelaide, SA",Electronics,1
+TXN372165,2024-02-01,192.64,Online Store,Debit Card,TERM874,"Sydney, NSW",Fashion,9
+TXN186376,2024-01-03,126.13,Clothing,Credit Card,TERM229,"Brisbane, QLD",Dining,10
+TXN764033,2024-01-15,310.81,Supermarket,Cash,TERM463,"Brisbane, QLD",E-Commerce,5
+TXN705778,2024-01-15,262.72,Restaurant,Cash,TERM617,"Perth, WA",Fuel Station,5
+TXN933375,2024-01-10,318.49,Clothing,Net Banking,TERM507,"Brisbane, QLD",Retail Grocery,1
+TXN753054,2024-01-27,334.29,Clothing,Debit Card,TERM492,"Perth, WA",Electronics,3
+TXN721110,2024-01-14,33.43,Online Store,Debit Card,TERM203,"Adelaide, SA",Fuel Station,8
+TXN400677,2024-01-16,371.11,Clothing,Credit Card,TERM846,"Perth, WA",Fuel Station,10
+TXN749497,2024-01-23,21.8,Clothing,Debit Card,TERM741,"Adelaide, SA",E-Commerce,6
+TXN239477,2024-02-16,309.58,Supermarket,Cash,TERM884,"Adelaide, SA",Fashion,8
+TXN131564,2024-01-09,148.05,Clothing,Debit Card,TERM679,"Perth, WA",Electronics,8
+TXN361364,2024-02-09,239.26,Electronics,UPI,TERM908,"Adelaide, SA",Fashion,9
+TXN714162,2024-02-03,312.73,Electronics,UPI,TERM771,"Brisbane, QLD",Fashion,3
+TXN235048,2024-02-07,24.51,Clothing,Debit Card,TERM139,"Brisbane, QLD",Retail Grocery,2
+TXN499523,2024-01-28,233.58,Clothing,Debit Card,TERM952,"Melbourne, VIC",Fashion,8
+TXN451777,2024-02-04,302.35,Restaurant,UPI,TERM765,"Melbourne, VIC",Retail Grocery,5
+TXN481735,2024-02-14,378.06,Restaurant,Debit Card,TERM645,"Adelaide, SA",Fashion,5
+TXN678543,2024-01-08,311.27,Restaurant,Debit Card,TERM762,"Adelaide, SA",Fuel Station,4
+TXN109635,2024-02-18,22.83,Supermarket,Debit Card,TERM581,"Adelaide, SA",Electronics,1
+TXN988724,2024-01-20,229.85,Clothing,Cash,TERM641,"Adelaide, SA",Dining,2
+TXN968729,2024-02-05,118.73,Clothing,Credit Card,TERM750,"Sydney, NSW",Fuel Station,1
+TXN129857,2024-02-18,446.12,Electronics,Cash,TERM671,"Sydney, NSW",Fuel Station,4
+TXN847529,2024-02-17,360.32,Online Store,Credit Card,TERM760,"Sydney, NSW",Retail Grocery,1
+TXN673941,2024-02-19,481.62,Online Store,Cash,TERM626,"Melbourne, VIC",Fuel Station,8
+TXN727033,2024-02-12,431.54,Electronics,Credit Card,TERM333,"Brisbane, QLD",Fuel Station,8
+TXN836934,2024-01-12,326.69,Supermarket,Debit Card,TERM178,"Brisbane, QLD",Fuel Station,3
+TXN556833,2024-02-03,441.96,Online Store,UPI,TERM637,"Sydney, NSW",Electronics,3
+TXN956805,2024-02-09,324.18,Clothing,Net Banking,TERM940,"Adelaide, SA",Electronics,9
+TXN485819,2024-01-23,160.07,Online Store,Credit Card,TERM698,"Perth, WA",E-Commerce,1
+TXN840748,2024-02-14,432.38,Electronics,Cash,TERM933,"Perth, WA",E-Commerce,5
+TXN441372,2024-01-06,479.68,Supermarket,Credit Card,TERM435,"Perth, WA",Retail Grocery,4
+TXN145081,2024-01-07,66.05,Electronics,Net Banking,TERM200,"Adelaide, SA",Fashion,7
+TXN824002,2024-02-15,32.5,Supermarket,Credit Card,TERM621,"Perth, WA",Fuel Station,4
+TXN695670,2024-01-01,178.35,Supermarket,UPI,TERM782,"Sydney, NSW",Fuel Station,3
+TXN130382,2024-01-24,82.34,Electronics,Credit Card,TERM666,"Brisbane, QLD",Dining,5
+TXN255614,2024-01-03,282.55,Online Store,Net Banking,TERM731,"Adelaide, SA",Electronics,6
+TXN961001,2024-02-02,289.74,Online Store,Cash,TERM660,"Melbourne, VIC",Retail Grocery,5
+TXN918173,2024-01-05,382.44,Supermarket,Debit Card,TERM571,"Sydney, NSW",Fuel Station,8
+TXN849067,2024-02-17,106.45,Clothing,Cash,TERM498,"Melbourne, VIC",Fuel Station,9
+TXN542542,2024-02-07,375.52,Supermarket,Cash,TERM240,"Adelaide, SA",Dining,3
+TXN346944,2024-01-08,470.89,Restaurant,Debit Card,TERM934,"Perth, WA",Retail Grocery,1
+TXN503875,2024-01-29,338.59,Electronics,Credit Card,TERM704,"Sydney, NSW",Fashion,4
+TXN461846,2024-02-17,60.89,Clothing,UPI,TERM870,"Perth, WA",E-Commerce,2
+TXN482137,2024-01-01,260.33,Electronics,Cash,TERM849,"Sydney, NSW",E-Commerce,9
+TXN156155,2024-01-19,440.71,Online Store,Credit Card,TERM984,"Adelaide, SA",Fashion,7
+TXN468339,2024-02-08,248.0,Supermarket,Net Banking,TERM533,"Perth, WA",Electronics,7
+TXN975111,2024-01-10,165.91,Electronics,Credit Card,TERM111,"Brisbane, QLD",Electronics,10
+TXN760296,2024-02-13,18.55,Restaurant,Debit Card,TERM313,"Brisbane, QLD",E-Commerce,3
+TXN457946,2024-01-16,45.62,Clothing,Credit Card,TERM638,"Perth, WA",Dining,10
+TXN840283,2024-01-17,255.75,Online Store,Net Banking,TERM669,"Perth, WA",Dining,1
+TXN355311,2024-01-16,166.81,Clothing,Credit Card,TERM378,"Sydney, NSW",Retail Grocery,9
+TXN610507,2024-01-20,350.7,Clothing,Debit Card,TERM464,"Brisbane, QLD",Fashion,7
+TXN275683,2024-01-16,141.97,Restaurant,UPI,TERM789,"Brisbane, QLD",Fashion,6
+TXN385206,2024-01-14,124.09,Clothing,Debit Card,TERM790,"Sydney, NSW",Electronics,2
+TXN982989,2024-01-13,235.59,Supermarket,UPI,TERM984,"Adelaide, SA",Retail Grocery,2
+TXN311147,2024-02-06,249.88,Supermarket,Debit Card,TERM709,"Perth, WA",Dining,6
+TXN902292,2024-02-01,118.98,Clothing,Net Banking,TERM222,"Melbourne, VIC",Dining,2
+TXN388626,2024-01-08,70.82,Online Store,Net Banking,TERM394,"Melbourne, VIC",Fashion,6
+TXN119892,2024-01-28,486.6,Supermarket,Cash,TERM895,"Sydney, NSW",Electronics,9
+TXN289666,2024-01-06,166.49,Clothing,Credit Card,TERM597,"Sydney, NSW",Dining,9
+TXN171380,2024-01-08,244.29,Electronics,Debit Card,TERM108,"Brisbane, QLD",Fashion,1
+TXN608064,2024-01-09,442.31,Online Store,Debit Card,TERM754,"Brisbane, QLD",Fashion,2
+TXN262987,2024-01-07,465.54,Online Store,Cash,TERM501,"Melbourne, VIC",Dining,2
+TXN446278,2024-01-16,63.43,Clothing,Net Banking,TERM157,"Brisbane, QLD",Fashion,10
+TXN698219,2024-02-02,492.53,Clothing,Cash,TERM426,"Perth, WA",Electronics,5
+TXN692902,2024-01-05,422.04,Clothing,UPI,TERM219,"Sydney, NSW",Fuel Station,9
+TXN219241,2024-02-04,230.11,Electronics,Cash,TERM992,"Adelaide, SA",Electronics,1
+TXN755268,2024-01-05,127.46,Supermarket,Cash,TERM227,"Brisbane, QLD",Retail Grocery,8
+TXN758195,2024-02-18,20.18,Online Store,Cash,TERM310,"Melbourne, VIC",Dining,2
+TXN753487,2024-01-16,496.07,Electronics,Cash,TERM120,"Adelaide, SA",Dining,5
+TXN745439,2024-01-05,198.47,Online Store,Net Banking,TERM582,"Melbourne, VIC",Electronics,1
+TXN634082,2024-02-01,286.78,Supermarket,Debit Card,TERM414,"Adelaide, SA",Fuel Station,6
+TXN445802,2024-02-05,231.24,Online Store,Net Banking,TERM556,"Melbourne, VIC",Dining,4
+TXN870375,2024-02-04,11.2,Electronics,Debit Card,TERM588,"Brisbane, QLD",Fuel Station,10
+TXN629256,2024-01-09,434.52,Electronics,Net Banking,TERM271,"Brisbane, QLD",E-Commerce,6
+TXN786374,2024-01-25,13.14,Clothing,Net Banking,TERM362,"Melbourne, VIC",Dining,4
+TXN895290,2024-01-30,55.66,Online Store,Net Banking,TERM911,"Brisbane, QLD",Retail Grocery,10
+TXN773541,2024-01-15,347.19,Restaurant,Net Banking,TERM861,"Perth, WA",Electronics,9
+TXN699823,2024-02-10,120.65,Electronics,Credit Card,TERM609,"Adelaide, SA",Electronics,10
+TXN382406,2024-01-18,390.75,Supermarket,Debit Card,TERM215,"Brisbane, QLD",E-Commerce,10
+TXN899596,2024-01-12,396.88,Online Store,Credit Card,TERM209,"Perth, WA",E-Commerce,3
+TXN560230,2024-01-31,378.62,Electronics,Cash,TERM344,"Brisbane, QLD",Electronics,8
+TXN658551,2024-01-11,268.22,Online Store,Credit Card,TERM718,"Melbourne, VIC",Retail Grocery,9
+TXN316546,2024-02-18,210.35,Restaurant,Debit Card,TERM285,"Perth, WA",Fashion,8
+TXN151927,2024-01-23,98.17,Electronics,Debit Card,TERM677,"Brisbane, QLD",Dining,10
+TXN666584,2024-01-21,73.65,Restaurant,Net Banking,TERM515,"Brisbane, QLD",Electronics,3
+TXN546417,2024-01-27,349.27,Electronics,Net Banking,TERM277,"Sydney, NSW",Electronics,9
+TXN402289,2024-02-01,49.77,Clothing,Credit Card,TERM702,"Perth, WA",Electronics,3
+TXN130107,2024-02-15,215.75,Online Store,Cash,TERM298,"Sydney, NSW",Fashion,6
+TXN809611,2024-01-11,177.45,Restaurant,Net Banking,TERM683,"Sydney, NSW",Fuel Station,9
+TXN674673,2024-02-08,374.36,Electronics,Debit Card,TERM659,"Sydney, NSW",Fuel Station,10
+TXN799261,2024-02-12,385.93,Electronics,UPI,TERM529,"Brisbane, QLD",E-Commerce,2
+TXN461388,2024-01-30,342.01,Online Store,UPI,TERM146,"Perth, WA",Fashion,2
+TXN631666,2024-02-12,129.44,Electronics,UPI,TERM536,"Perth, WA",Electronics,10
+TXN520234,2024-02-15,472.2,Electronics,UPI,TERM404,"Adelaide, SA",E-Commerce,8
+TXN382808,2024-01-16,454.38,Electronics,UPI,TERM478,"Melbourne, VIC",Retail Grocery,8
+TXN857672,2024-01-31,351.25,Online Store,Credit Card,TERM684,"Sydney, NSW",Retail Grocery,9
+TXN338677,2024-01-25,273.7,Online Store,Credit Card,TERM862,"Sydney, NSW",E-Commerce,5
+TXN227403,2024-01-17,318.38,Supermarket,Credit Card,TERM402,"Perth, WA",Retail Grocery,10
+TXN218250,2024-02-13,93.88,Restaurant,Net Banking,TERM357,"Sydney, NSW",E-Commerce,10
+TXN240830,2024-02-13,418.59,Online Store,Credit Card,TERM256,"Perth, WA",Fuel Station,2
+TXN749749,2024-02-03,80.42,Online Store,Net Banking,TERM654,"Melbourne, VIC",Retail Grocery,1
+TXN726918,2024-01-18,247.81,Supermarket,Credit Card,TERM185,"Melbourne, VIC",Electronics,10
+TXN312042,2024-02-16,270.18,Clothing,Credit Card,TERM627,"Sydney, NSW",Fuel Station,7
+TXN793241,2024-02-02,378.24,Online Store,Credit Card,TERM115,"Brisbane, QLD",Fuel Station,10
+TXN609558,2024-02-11,110.34,Online Store,Cash,TERM788,"Brisbane, QLD",Electronics,1
+TXN452702,2024-02-04,412.99,Clothing,Net Banking,TERM295,"Adelaide, SA",Retail Grocery,1
+TXN369569,2024-02-03,424.78,Clothing,UPI,TERM238,"Sydney, NSW",Electronics,5
+TXN369583,2024-02-02,131.55,Clothing,Credit Card,TERM705,"Brisbane, QLD",Fuel Station,2
+TXN980467,2024-02-01,135.75,Electronics,Debit Card,TERM920,"Adelaide, SA",Retail Grocery,9
+TXN287758,2024-02-09,28.12,Clothing,Cash,TERM911,"Melbourne, VIC",Retail Grocery,8
+TXN756359,2024-02-18,439.38,Clothing,Cash,TERM230,"Brisbane, QLD",Retail Grocery,8
+TXN790253,2024-01-31,149.77,Supermarket,Credit Card,TERM335,"Adelaide, SA",Dining,7
+TXN837588,2024-01-07,316.26,Electronics,UPI,TERM420,"Brisbane, QLD",Dining,5
+TXN181018,2024-02-01,428.83,Clothing,Credit Card,TERM953,"Melbourne, VIC",Dining,10
+TXN788596,2024-02-17,287.27,Supermarket,Credit Card,TERM602,"Sydney, NSW",Fuel Station,1
+TXN552900,2024-02-16,326.2,Electronics,Cash,TERM891,"Perth, WA",Fashion,9
+TXN786227,2024-02-09,395.56,Electronics,Credit Card,TERM993,"Melbourne, VIC",Fashion,2
+TXN673368,2024-01-19,115.27,Supermarket,UPI,TERM603,"Perth, WA",Electronics,5
+TXN822069,2024-02-14,363.42,Electronics,Credit Card,TERM592,"Brisbane, QLD",E-Commerce,3
+TXN139233,2024-01-12,18.47,Restaurant,Cash,TERM701,"Sydney, NSW",E-Commerce,9
+TXN525552,2024-01-28,359.53,Restaurant,Cash,TERM894,"Melbourne, VIC",Fashion,6
+TXN900673,2024-01-14,376.41,Clothing,Credit Card,TERM897,"Brisbane, QLD",Fuel Station,9
+TXN339183,2024-01-31,306.0,Online Store,Debit Card,TERM119,"Brisbane, QLD",Electronics,10
+TXN435360,2024-02-13,188.36,Supermarket,Cash,TERM866,"Perth, WA",Fuel Station,9
+TXN651072,2024-01-25,489.76,Restaurant,Debit Card,TERM224,"Melbourne, VIC",Fashion,5
+TXN693824,2024-02-11,487.48,Supermarket,Credit Card,TERM623,"Brisbane, QLD",Dining,8
+TXN750975,2024-02-13,127.53,Online Store,Debit Card,TERM530,"Melbourne, VIC",Fuel Station,3
+TXN340170,2024-01-23,38.22,Clothing,UPI,TERM259,"Melbourne, VIC",E-Commerce,7
+TXN835074,2024-02-19,231.5,Online Store,UPI,TERM935,"Adelaide, SA",Fashion,8
+TXN243248,2024-01-20,161.58,Restaurant,Debit Card,TERM153,"Brisbane, QLD",Dining,2
+TXN614545,2024-01-09,31.68,Clothing,Credit Card,TERM877,"Melbourne, VIC",E-Commerce,5
+TXN515111,2024-01-09,23.27,Restaurant,UPI,TERM693,"Adelaide, SA",Electronics,5
+TXN677691,2024-02-05,68.64,Clothing,Credit Card,TERM895,"Perth, WA",Fuel Station,8
+TXN525298,2024-02-19,246.47,Restaurant,UPI,TERM394,"Sydney, NSW",Retail Grocery,5
+TXN836544,2024-01-27,151.75,Electronics,Debit Card,TERM162,"Sydney, NSW",Retail Grocery,6
+TXN430757,2024-01-11,69.28,Online Store,Debit Card,TERM849,"Melbourne, VIC",Electronics,2
+TXN341254,2024-02-14,55.42,Restaurant,Net Banking,TERM357,"Perth, WA",Dining,10
+TXN829678,2024-01-06,127.13,Clothing,Cash,TERM542,"Adelaide, SA",Fashion,1
+TXN288820,2024-02-09,239.15,Electronics,Net Banking,TERM860,"Adelaide, SA",Fuel Station,6
+TXN327365,2024-02-12,439.49,Restaurant,Credit Card,TERM188,"Sydney, NSW",Fuel Station,2
+TXN693178,2024-02-12,307.85,Supermarket,Net Banking,TERM282,"Adelaide, SA",Dining,4
+TXN371055,2024-01-01,372.54,Supermarket,Debit Card,TERM653,"Perth, WA",Fashion,7
+TXN876076,2024-01-30,371.84,Online Store,UPI,TERM475,"Perth, WA",Dining,7
+TXN150487,2024-02-12,169.74,Supermarket,Debit Card,TERM870,"Sydney, NSW",Fuel Station,1
+TXN720377,2024-02-04,244.37,Supermarket,Debit Card,TERM240,"Brisbane, QLD",E-Commerce,10
+TXN776574,2024-01-06,257.74,Restaurant,Debit Card,TERM748,"Adelaide, SA",E-Commerce,7
+TXN765243,2024-01-01,339.55,Supermarket,Cash,TERM207,"Sydney, NSW",Retail Grocery,5
+TXN204512,2024-01-04,26.46,Restaurant,Net Banking,TERM325,"Sydney, NSW",E-Commerce,6
+TXN961210,2024-01-29,398.82,Restaurant,Debit Card,TERM948,"Sydney, NSW",Fuel Station,6
+TXN739178,2024-01-13,141.76,Supermarket,UPI,TERM594,"Melbourne, VIC",Fuel Station,1
+TXN663248,2024-02-13,471.45,Online Store,Cash,TERM956,"Adelaide, SA",Electronics,1
+TXN456240,2024-02-16,155.83,Clothing,Credit Card,TERM149,"Adelaide, SA",Retail Grocery,7
+TXN985666,2024-02-09,440.67,Clothing,Net Banking,TERM887,"Adelaide, SA",Retail Grocery,5
+TXN513852,2024-02-07,332.72,Clothing,Net Banking,TERM487,"Adelaide, SA",E-Commerce,6
+TXN167325,2024-02-11,442.06,Electronics,Cash,TERM217,"Brisbane, QLD",Dining,8
+TXN568136,2024-02-01,199.56,Supermarket,Net Banking,TERM551,"Sydney, NSW",E-Commerce,1
+TXN675117,2024-02-09,147.64,Online Store,Credit Card,TERM940,"Brisbane, QLD",Fuel Station,6
+TXN816676,2024-02-06,292.29,Online Store,Net Banking,TERM879,"Perth, WA",E-Commerce,6
+TXN160578,2024-01-01,57.89,Online Store,Cash,TERM192,"Brisbane, QLD",Dining,7
+TXN635112,2024-01-09,455.24,Clothing,Net Banking,TERM276,"Melbourne, VIC",Dining,8
+TXN309498,2024-01-26,435.99,Clothing,Debit Card,TERM480,"Perth, WA",Fuel Station,5
+TXN634999,2024-01-22,14.62,Online Store,Cash,TERM123,"Sydney, NSW",E-Commerce,9
+TXN189690,2024-02-10,378.96,Restaurant,Cash,TERM630,"Sydney, NSW",Fuel Station,6
+TXN113415,2024-01-09,269.27,Supermarket,Net Banking,TERM720,"Adelaide, SA",Fuel Station,6
+TXN627141,2024-02-19,156.9,Supermarket,Cash,TERM459,"Perth, WA",E-Commerce,9
+TXN657157,2024-01-03,470.16,Online Store,Credit Card,TERM475,"Sydney, NSW",Fuel Station,6
+TXN439880,2024-01-08,294.29,Restaurant,Cash,TERM985,"Melbourne, VIC",Fuel Station,1
+TXN762219,2024-01-22,38.57,Supermarket,Credit Card,TERM127,"Brisbane, QLD",Dining,6
+TXN184154,2024-01-28,147.27,Clothing,Cash,TERM102,"Sydney, NSW",Electronics,5
+TXN147067,2024-02-01,168.17,Electronics,Net Banking,TERM517,"Brisbane, QLD",Fashion,2
+TXN594857,2024-02-02,251.65,Restaurant,UPI,TERM886,"Brisbane, QLD",E-Commerce,4
+TXN944138,2024-01-04,249.6,Electronics,Net Banking,TERM396,"Melbourne, VIC",Electronics,1
+TXN472640,2024-01-08,93.31,Online Store,Debit Card,TERM482,"Sydney, NSW",Fashion,4
+TXN291517,2024-01-22,243.79,Clothing,Debit Card,TERM582,"Melbourne, VIC",Retail Grocery,9
+TXN534880,2024-01-14,456.59,Restaurant,Credit Card,TERM992,"Sydney, NSW",E-Commerce,1
+TXN731722,2024-02-06,84.42,Supermarket,Credit Card,TERM741,"Brisbane, QLD",Dining,7
+TXN901315,2024-02-11,212.93,Restaurant,UPI,TERM394,"Sydney, NSW",Electronics,6
+TXN783099,2024-01-29,87.69,Online Store,UPI,TERM503,"Perth, WA",Retail Grocery,6
+TXN366345,2024-02-01,406.0,Supermarket,Net Banking,TERM325,"Sydney, NSW",Fashion,8
+TXN240016,2024-02-14,216.75,Supermarket,Credit Card,TERM165,"Melbourne, VIC",Fashion,8
+TXN521999,2024-02-09,146.22,Electronics,Credit Card,TERM381,"Melbourne, VIC",Dining,5
+TXN491080,2024-01-06,423.15,Online Store,Credit Card,TERM874,"Adelaide, SA",Electronics,4
+TXN743413,2024-02-20,370.34,Restaurant,UPI,TERM693,"Adelaide, SA",Electronics,7
+TXN483672,2024-02-09,209.35,Clothing,Net Banking,TERM889,"Brisbane, QLD",Electronics,1
+TXN191066,2024-01-22,401.07,Restaurant,UPI,TERM915,"Adelaide, SA",Fashion,6
+TXN854482,2024-01-20,124.03,Electronics,UPI,TERM838,"Sydney, NSW",Dining,6
+TXN789252,2024-01-04,171.23,Supermarket,Cash,TERM102,"Adelaide, SA",E-Commerce,6
+TXN549971,2024-02-14,109.21,Online Store,Credit Card,TERM589,"Sydney, NSW",Dining,2
+TXN340537,2024-02-13,481.55,Electronics,Credit Card,TERM122,"Melbourne, VIC",Fuel Station,9
+TXN722722,2024-01-11,178.76,Restaurant,Credit Card,TERM759,"Adelaide, SA",Electronics,6
+TXN376045,2024-02-15,204.94,Electronics,Debit Card,TERM787,"Brisbane, QLD",Dining,3
+TXN619849,2024-01-27,436.22,Online Store,Net Banking,TERM159,"Melbourne, VIC",Dining,6
+TXN567491,2024-01-27,129.8,Online Store,Debit Card,TERM338,"Adelaide, SA",Retail Grocery,3
+TXN434957,2024-01-29,413.11,Online Store,Cash,TERM208,"Melbourne, VIC",Fuel Station,1
+TXN969705,2024-01-12,341.36,Supermarket,Net Banking,TERM358,"Sydney, NSW",E-Commerce,5
+TXN426210,2024-02-09,429.84,Clothing,Cash,TERM488,"Melbourne, VIC",Electronics,10
+TXN668992,2024-02-07,129.09,Online Store,Cash,TERM947,"Adelaide, SA",Fashion,1
+TXN176835,2024-02-14,305.52,Clothing,Credit Card,TERM886,"Brisbane, QLD",Fuel Station,2
+TXN737484,2024-01-15,345.84,Electronics,Credit Card,TERM149,"Brisbane, QLD",E-Commerce,1
+TXN366672,2024-01-15,338.38,Restaurant,Debit Card,TERM360,"Sydney, NSW",Fashion,3
+TXN456458,2024-01-21,28.59,Supermarket,UPI,TERM150,"Adelaide, SA",E-Commerce,4
+TXN144843,2024-01-16,36.02,Supermarket,Debit Card,TERM704,"Perth, WA",Fashion,5
+TXN814260,2024-01-24,331.74,Electronics,Cash,TERM380,"Sydney, NSW",Retail Grocery,8
+TXN647118,2024-02-18,329.24,Online Store,Debit Card,TERM643,"Brisbane, QLD",Retail Grocery,10
+TXN779967,2024-01-09,169.45,Supermarket,Debit Card,TERM291,"Melbourne, VIC",Electronics,5
+TXN136444,2024-02-02,101.46,Clothing,UPI,TERM397,"Adelaide, SA",Fuel Station,7
+TXN347422,2024-01-30,375.72,Clothing,UPI,TERM200,"Brisbane, QLD",E-Commerce,9
+TXN328636,2024-01-25,453.91,Electronics,Cash,TERM960,"Melbourne, VIC",Retail Grocery,3
+TXN190989,2024-01-24,275.65,Clothing,Cash,TERM441,"Sydney, NSW",Fashion,7
+TXN494025,2024-02-01,492.04,Electronics,Net Banking,TERM745,"Adelaide, SA",Electronics,8
+TXN277084,2024-02-03,48.25,Clothing,Net Banking,TERM764,"Perth, WA",Dining,4
+TXN129801,2024-01-16,395.76,Electronics,UPI,TERM200,"Brisbane, QLD",Retail Grocery,5
+TXN260900,2024-01-16,167.11,Clothing,UPI,TERM624,"Perth, WA",Electronics,7
+TXN814553,2024-02-03,298.59,Supermarket,Net Banking,TERM294,"Sydney, NSW",Electronics,7
+TXN872048,2024-01-20,268.64,Clothing,Net Banking,TERM530,"Melbourne, VIC",Electronics,5
+TXN516463,2024-01-26,451.37,Online Store,Cash,TERM270,"Sydney, NSW",Electronics,8
+TXN597112,2024-01-07,447.36,Online Store,Credit Card,TERM690,"Adelaide, SA",E-Commerce,2
+TXN803810,2024-01-22,222.5,Clothing,Net Banking,TERM694,"Sydney, NSW",Fuel Station,5
+TXN557435,2024-01-28,349.58,Restaurant,Credit Card,TERM167,"Perth, WA",E-Commerce,5
+TXN394605,2024-01-30,91.09,Electronics,UPI,TERM816,"Sydney, NSW",E-Commerce,4
+TXN537935,2024-02-20,241.8,Restaurant,Cash,TERM274,"Melbourne, VIC",Retail Grocery,5
+TXN158586,2024-01-27,456.46,Supermarket,Cash,TERM529,"Perth, WA",Electronics,1
+TXN146066,2024-01-22,471.7,Electronics,UPI,TERM397,"Sydney, NSW",Fuel Station,4
+TXN870775,2024-01-09,492.63,Clothing,Debit Card,TERM973,"Perth, WA",E-Commerce,2
+TXN205220,2024-01-02,484.26,Restaurant,Credit Card,TERM194,"Adelaide, SA",Retail Grocery,9
+TXN884359,2024-02-20,40.52,Supermarket,Cash,TERM892,"Adelaide, SA",Dining,8
+TXN743198,2024-02-19,376.62,Online Store,Credit Card,TERM871,"Adelaide, SA",Fashion,6
+TXN605831,2024-01-27,111.14,Supermarket,Net Banking,TERM250,"Perth, WA",Retail Grocery,4
+TXN952676,2024-01-13,37.59,Clothing,Cash,TERM183,"Adelaide, SA",Retail Grocery,6
+TXN756138,2024-01-24,74.68,Restaurant,Cash,TERM188,"Sydney, NSW",Retail Grocery,3
+TXN310022,2024-01-05,236.48,Electronics,Credit Card,TERM681,"Brisbane, QLD",Dining,8
+TXN855782,2024-01-01,495.74,Clothing,Debit Card,TERM512,"Perth, WA",Electronics,4
+TXN824477,2024-02-14,262.47,Electronics,Net Banking,TERM462,"Adelaide, SA",Electronics,7
+TXN169355,2024-01-10,369.3,Restaurant,Debit Card,TERM883,"Perth, WA",Dining,1
+TXN138800,2024-01-24,186.29,Online Store,Debit Card,TERM345,"Adelaide, SA",Electronics,10
+TXN265641,2024-01-02,129.87,Electronics,Cash,TERM187,"Melbourne, VIC",Fashion,1
+TXN975573,2024-01-28,412.22,Restaurant,Cash,TERM452,"Melbourne, VIC",E-Commerce,4
+TXN154998,2024-01-18,121.21,Supermarket,Net Banking,TERM145,"Perth, WA",Fuel Station,7
+TXN111876,2024-02-05,328.06,Clothing,Credit Card,TERM910,"Adelaide, SA",Dining,6
+TXN178132,2024-01-19,472.69,Supermarket,Debit Card,TERM875,"Adelaide, SA",Retail Grocery,1
+TXN796820,2024-02-09,427.7,Restaurant,Debit Card,TERM773,"Melbourne, VIC",Electronics,6
+TXN164246,2024-01-21,154.79,Electronics,Net Banking,TERM536,"Adelaide, SA",Retail Grocery,6
+TXN929279,2024-02-15,212.16,Electronics,Cash,TERM848,"Brisbane, QLD",Fashion,3
+TXN947956,2024-02-14,55.69,Electronics,Cash,TERM356,"Sydney, NSW",Fashion,2
+TXN865201,2024-01-06,103.24,Restaurant,Net Banking,TERM640,"Adelaide, SA",Fashion,5
+TXN199825,2024-01-14,125.79,Clothing,Cash,TERM659,"Adelaide, SA",Fashion,5
+TXN309443,2024-01-02,387.52,Supermarket,Net Banking,TERM184,"Sydney, NSW",Fashion,9
+TXN634026,2024-02-06,213.67,Clothing,Net Banking,TERM443,"Melbourne, VIC",Dining,7
+TXN637115,2024-01-08,163.26,Clothing,UPI,TERM185,"Melbourne, VIC",E-Commerce,8
+TXN974148,2024-01-15,370.01,Online Store,Cash,TERM770,"Adelaide, SA",Fuel Station,7
+TXN438684,2024-01-31,457.17,Clothing,Net Banking,TERM554,"Melbourne, VIC",Fashion,5
+TXN478468,2024-02-06,413.29,Restaurant,Cash,TERM532,"Melbourne, VIC",Fuel Station,6
+TXN331532,2024-01-10,62.39,Restaurant,Cash,TERM850,"Perth, WA",E-Commerce,8
+TXN140755,2024-01-27,245.56,Restaurant,Credit Card,TERM939,"Sydney, NSW",Electronics,1
+TXN858206,2024-02-14,472.04,Supermarket,Cash,TERM760,"Melbourne, VIC",E-Commerce,8
+TXN931044,2024-01-28,180.19,Online Store,Credit Card,TERM118,"Perth, WA",Retail Grocery,8
+TXN368034,2024-02-20,25.41,Restaurant,Debit Card,TERM483,"Brisbane, QLD",Fashion,9
+TXN743104,2024-02-12,264.29,Electronics,Cash,TERM767,"Sydney, NSW",Retail Grocery,3
+TXN770037,2024-01-08,259.7,Clothing,Credit Card,TERM708,"Perth, WA",E-Commerce,1
+TXN202357,2024-02-02,216.6,Restaurant,Cash,TERM494,"Perth, WA",Electronics,5
+TXN150988,2024-01-05,367.36,Restaurant,Debit Card,TERM647,"Perth, WA",Fuel Station,3
+TXN165514,2024-01-25,14.14,Supermarket,Credit Card,TERM893,"Melbourne, VIC",Fuel Station,1
+TXN366117,2024-01-08,212.99,Clothing,Cash,TERM179,"Melbourne, VIC",E-Commerce,9
+TXN562020,2024-01-29,259.18,Restaurant,UPI,TERM886,"Brisbane, QLD",Retail Grocery,2
+TXN664758,2024-02-11,78.86,Electronics,Cash,TERM844,"Perth, WA",Dining,7
+TXN254353,2024-02-07,352.62,Supermarket,Credit Card,TERM749,"Sydney, NSW",Fuel Station,3
+TXN684877,2024-02-04,375.21,Supermarket,Credit Card,TERM304,"Melbourne, VIC",Fashion,9
+TXN384402,2024-02-18,148.33,Restaurant,Debit Card,TERM102,"Brisbane, QLD",Dining,5
+TXN935150,2024-01-20,247.63,Restaurant,Cash,TERM641,"Brisbane, QLD",Fashion,9
+TXN948141,2024-02-15,186.74,Online Store,Credit Card,TERM704,"Perth, WA",Fashion,1
+TXN157308,2024-02-09,91.72,Online Store,Cash,TERM341,"Sydney, NSW",Dining,1
+TXN488588,2024-01-19,142.46,Online Store,Credit Card,TERM247,"Perth, WA",Fashion,1
+TXN951057,2024-01-19,450.91,Electronics,Debit Card,TERM294,"Brisbane, QLD",Electronics,6
+TXN834043,2024-01-08,180.8,Restaurant,UPI,TERM480,"Brisbane, QLD",E-Commerce,10
+TXN127886,2024-02-10,112.46,Supermarket,Net Banking,TERM902,"Perth, WA",Dining,10
+TXN296148,2024-01-30,210.22,Clothing,Debit Card,TERM615,"Brisbane, QLD",Retail Grocery,6
+TXN658013,2024-01-16,159.41,Electronics,Debit Card,TERM981,"Adelaide, SA",Electronics,9
+TXN153854,2024-02-08,275.65,Restaurant,UPI,TERM138,"Sydney, NSW",Electronics,3
+TXN372267,2024-01-04,344.4,Electronics,Net Banking,TERM809,"Sydney, NSW",Retail Grocery,7
+TXN499421,2024-01-20,68.15,Supermarket,Debit Card,TERM325,"Perth, WA",Electronics,5
+TXN254873,2024-01-11,294.73,Electronics,Debit Card,TERM823,"Sydney, NSW",Electronics,10
+TXN833398,2024-02-14,407.46,Online Store,Debit Card,TERM823,"Sydney, NSW",Electronics,10
+TXN113601,2024-02-10,464.18,Restaurant,Debit Card,TERM494,"Perth, WA",Dining,7
+TXN827165,2024-01-13,145.28,Online Store,UPI,TERM473,"Brisbane, QLD",Dining,8
+TXN154773,2024-02-19,194.34,Clothing,Cash,TERM139,"Brisbane, QLD",Electronics,5
+TXN253546,2024-01-24,126.1,Electronics,Net Banking,TERM501,"Brisbane, QLD",Fashion,10
+TXN284163,2024-01-29,352.53,Restaurant,Credit Card,TERM852,"Adelaide, SA",Electronics,2
+TXN997401,2024-01-06,354.78,Supermarket,Debit Card,TERM720,"Sydney, NSW",Fashion,7
+TXN393497,2024-01-12,24.44,Supermarket,Credit Card,TERM973,"Sydney, NSW",Dining,7
+TXN917279,2024-02-18,223.74,Online Store,Cash,TERM446,"Perth, WA",Dining,8
+TXN878146,2024-01-08,42.95,Electronics,UPI,TERM419,"Adelaide, SA",Fuel Station,10
+TXN940759,2024-02-18,413.82,Clothing,Cash,TERM375,"Adelaide, SA",Fashion,7
+TXN624598,2024-02-18,127.88,Clothing,Net Banking,TERM358,"Sydney, NSW",Retail Grocery,2
+TXN816897,2024-01-03,5.08,Electronics,UPI,TERM907,"Sydney, NSW",Dining,4
+TXN554428,2024-02-01,94.1,Restaurant,Credit Card,TERM278,"Sydney, NSW",Retail Grocery,5
+TXN217071,2024-01-23,304.46,Online Store,Debit Card,TERM239,"Melbourne, VIC",E-Commerce,3
+TXN275802,2024-02-13,80.65,Clothing,Cash,TERM205,"Sydney, NSW",Retail Grocery,8
+TXN594230,2024-02-05,431.1,Clothing,Cash,TERM624,"Brisbane, QLD",Electronics,3
+TXN927035,2024-02-09,353.87,Supermarket,Cash,TERM401,"Perth, WA",Electronics,8
+TXN221045,2024-01-22,316.25,Restaurant,Credit Card,TERM178,"Perth, WA",E-Commerce,5
+TXN895291,2024-02-05,434.81,Supermarket,Net Banking,TERM201,"Adelaide, SA",Electronics,8
+TXN150213,2024-01-18,474.75,Online Store,Credit Card,TERM806,"Perth, WA",Retail Grocery,4
+TXN471893,2024-01-31,253.38,Online Store,Credit Card,TERM392,"Melbourne, VIC",Fuel Station,8
+TXN231519,2024-01-06,236.65,Supermarket,UPI,TERM854,"Sydney, NSW",Fuel Station,4
+TXN387342,2024-02-06,387.25,Restaurant,Credit Card,TERM235,"Sydney, NSW",Electronics,8
+TXN747771,2024-02-06,398.38,Restaurant,Cash,TERM925,"Perth, WA",Fashion,2
+TXN751474,2024-01-03,341.52,Supermarket,UPI,TERM947,"Brisbane, QLD",Electronics,4
+TXN300188,2024-01-21,155.68,Clothing,Cash,TERM411,"Adelaide, SA",Retail Grocery,1
+TXN696059,2024-01-16,407.05,Restaurant,Cash,TERM925,"Perth, WA",E-Commerce,4
+TXN115992,2024-02-02,49.74,Supermarket,Cash,TERM907,"Adelaide, SA",Dining,4
+TXN643540,2024-01-13,277.57,Restaurant,Cash,TERM911,"Melbourne, VIC",Electronics,1
+TXN475442,2024-01-30,320.3,Online Store,Cash,TERM884,"Adelaide, SA",Fuel Station,1
+TXN971650,2024-01-26,431.52,Electronics,UPI,TERM323,"Brisbane, QLD",Electronics,3
+TXN422832,2024-01-26,294.43,Electronics,Net Banking,TERM182,"Melbourne, VIC",E-Commerce,1
+TXN989572,2024-01-23,495.45,Electronics,Cash,TERM266,"Melbourne, VIC",E-Commerce,10
+TXN642078,2024-02-07,256.55,Electronics,Credit Card,TERM608,"Sydney, NSW",Dining,6
+TXN596564,2024-02-20,490.75,Electronics,Debit Card,TERM841,"Sydney, NSW",Electronics,7
+TXN574810,2024-01-04,211.87,Clothing,Debit Card,TERM786,"Adelaide, SA",Fuel Station,2
+TXN959326,2024-01-25,324.99,Supermarket,Credit Card,TERM100,"Perth, WA",Fuel Station,5
+TXN322000,2024-01-28,414.16,Online Store,UPI,TERM856,"Adelaide, SA",E-Commerce,8
+TXN588629,2024-01-06,367.51,Clothing,Net Banking,TERM987,"Brisbane, QLD",Fuel Station,9
+TXN349055,2024-02-04,72.83,Clothing,Cash,TERM271,"Sydney, NSW",Retail Grocery,10
+TXN580773,2024-02-10,61.96,Online Store,Debit Card,TERM344,"Perth, WA",Dining,5
+TXN283021,2024-01-28,156.0,Supermarket,Net Banking,TERM939,"Melbourne, VIC",Fuel Station,2
+TXN533712,2024-01-03,49.18,Clothing,Credit Card,TERM968,"Melbourne, VIC",Electronics,1
+TXN544867,2024-01-24,92.21,Supermarket,UPI,TERM442,"Melbourne, VIC",Electronics,1
+TXN820536,2024-01-25,89.77,Online Store,Net Banking,TERM187,"Brisbane, QLD",Retail Grocery,2
+TXN251616,2024-02-12,261.09,Supermarket,Debit Card,TERM835,"Brisbane, QLD",Electronics,2
+TXN554981,2024-01-12,343.18,Online Store,Credit Card,TERM838,"Adelaide, SA",Dining,2
+TXN264586,2024-02-11,273.06,Clothing,UPI,TERM304,"Brisbane, QLD",Fuel Station,3
+TXN440017,2024-01-01,375.91,Electronics,Credit Card,TERM135,"Melbourne, VIC",Electronics,7
+TXN336289,2024-01-20,497.85,Supermarket,Credit Card,TERM315,"Perth, WA",Electronics,10
+TXN686013,2024-01-27,288.37,Supermarket,Debit Card,TERM129,"Sydney, NSW",Electronics,4
+TXN876600,2024-02-13,159.8,Electronics,Net Banking,TERM404,"Sydney, NSW",Fuel Station,9
+TXN513489,2024-02-08,328.16,Electronics,Debit Card,TERM148,"Brisbane, QLD",Electronics,4
+TXN443637,2024-01-19,127.26,Restaurant,Net Banking,TERM486,"Melbourne, VIC",Retail Grocery,6
+TXN933431,2024-02-17,182.03,Electronics,Cash,TERM382,"Melbourne, VIC",E-Commerce,8
+TXN223258,2024-01-26,40.06,Online Store,Debit Card,TERM456,"Adelaide, SA",Retail Grocery,7
+TXN168851,2024-02-20,251.34,Electronics,Net Banking,TERM888,"Melbourne, VIC",E-Commerce,4
+TXN945333,2024-01-20,246.05,Clothing,Net Banking,TERM736,"Brisbane, QLD",Retail Grocery,3
+TXN611916,2024-01-06,126.65,Restaurant,Credit Card,TERM655,"Melbourne, VIC",Dining,2
+TXN376811,2024-01-12,285.04,Supermarket,UPI,TERM414,"Perth, WA",E-Commerce,7
+TXN599553,2024-01-29,295.5,Electronics,UPI,TERM767,"Melbourne, VIC",E-Commerce,9
+TXN750056,2024-01-11,195.04,Electronics,Credit Card,TERM106,"Adelaide, SA",Fashion,7
+TXN330724,2024-02-19,349.01,Electronics,UPI,TERM787,"Adelaide, SA",Fashion,7
+TXN270816,2024-01-25,81.44,Online Store,Debit Card,TERM553,"Sydney, NSW",Retail Grocery,1
+TXN525375,2024-01-19,386.88,Online Store,UPI,TERM500,"Sydney, NSW",Electronics,2
+TXN719329,2024-01-05,355.16,Online Store,Net Banking,TERM625,"Brisbane, QLD",Dining,2
+TXN539892,2024-01-22,226.92,Supermarket,Credit Card,TERM273,"Sydney, NSW",Electronics,8
+TXN531266,2024-02-10,491.4,Online Store,Net Banking,TERM342,"Perth, WA",Electronics,7
+TXN384827,2024-02-03,307.1,Electronics,Debit Card,TERM764,"Brisbane, QLD",Retail Grocery,3
+TXN442295,2024-02-15,443.4,Clothing,Net Banking,TERM448,"Perth, WA",Electronics,6
+TXN339567,2024-01-14,460.34,Online Store,Credit Card,TERM250,"Melbourne, VIC",Fuel Station,10
+TXN735859,2024-01-08,12.55,Restaurant,UPI,TERM872,"Perth, WA",Fashion,7
+TXN944426,2024-01-22,14.13,Online Store,Credit Card,TERM726,"Brisbane, QLD",Electronics,9
+TXN789146,2024-02-13,318.62,Restaurant,UPI,TERM124,"Melbourne, VIC",E-Commerce,6
+TXN438190,2024-01-03,366.87,Clothing,Cash,TERM873,"Perth, WA",Dining,1
+TXN696391,2024-02-09,25.61,Restaurant,Debit Card,TERM277,"Sydney, NSW",Fuel Station,6
+TXN903772,2024-02-17,79.24,Supermarket,Net Banking,TERM925,"Sydney, NSW",Electronics,10
+TXN714532,2024-02-09,96.22,Restaurant,Cash,TERM222,"Sydney, NSW",Dining,9
+TXN602591,2024-01-23,200.86,Clothing,Debit Card,TERM552,"Perth, WA",Electronics,10
+TXN759730,2024-02-07,305.18,Clothing,Credit Card,TERM549,"Perth, WA",Fuel Station,7
+TXN335414,2024-01-11,184.11,Clothing,Cash,TERM276,"Brisbane, QLD",E-Commerce,10
+TXN693528,2024-02-08,12.41,Supermarket,Credit Card,TERM950,"Brisbane, QLD",Dining,3
+TXN681972,2024-01-19,294.18,Supermarket,Net Banking,TERM167,"Melbourne, VIC",Fashion,2
+TXN389263,2024-01-05,468.28,Supermarket,Cash,TERM759,"Sydney, NSW",Retail Grocery,1
+TXN222697,2024-02-03,172.12,Restaurant,Cash,TERM337,"Perth, WA",Electronics,2
+TXN597697,2024-02-18,348.46,Supermarket,Cash,TERM397,"Adelaide, SA",Retail Grocery,1
+TXN811566,2024-02-04,490.35,Supermarket,Debit Card,TERM132,"Brisbane, QLD",Fuel Station,8
+TXN653958,2024-02-19,240.79,Electronics,Credit Card,TERM969,"Sydney, NSW",Electronics,1
+TXN171120,2024-02-01,499.77,Clothing,Credit Card,TERM969,"Sydney, NSW",Dining,7
+TXN857792,2024-02-02,299.88,Supermarket,Debit Card,TERM698,"Perth, WA",E-Commerce,4
+TXN691753,2024-01-21,419.16,Clothing,Cash,TERM742,"Sydney, NSW",Fuel Station,10
+TXN479491,2024-01-25,428.41,Clothing,Debit Card,TERM161,"Brisbane, QLD",Retail Grocery,1
+TXN780248,2024-01-27,452.11,Electronics,Cash,TERM305,"Melbourne, VIC",Electronics,8
+TXN493393,2024-02-02,75.47,Online Store,Net Banking,TERM815,"Melbourne, VIC",Retail Grocery,9
+TXN176211,2024-01-05,51.06,Online Store,UPI,TERM578,"Adelaide, SA",E-Commerce,9
+TXN388680,2024-02-06,316.68,Electronics,Debit Card,TERM721,"Perth, WA",Retail Grocery,10
+TXN865436,2024-02-11,354.6,Restaurant,UPI,TERM702,"Perth, WA",Electronics,6
+TXN565530,2024-01-02,64.14,Online Store,Credit Card,TERM966,"Adelaide, SA",Fashion,3
+TXN796425,2024-01-18,493.83,Online Store,Net Banking,TERM104,"Adelaide, SA",Retail Grocery,9
+TXN173436,2024-01-21,84.02,Electronics,UPI,TERM928,"Sydney, NSW",Electronics,10
+TXN235215,2024-01-07,466.92,Online Store,Cash,TERM965,"Melbourne, VIC",E-Commerce,6
+TXN366730,2024-01-29,67.93,Electronics,UPI,TERM283,"Brisbane, QLD",E-Commerce,6
+TXN433246,2024-01-28,141.45,Restaurant,UPI,TERM681,"Brisbane, QLD",Retail Grocery,10
+TXN624492,2024-01-20,477.25,Online Store,Net Banking,TERM367,"Sydney, NSW",Fuel Station,1
+TXN262657,2024-01-21,40.65,Supermarket,Net Banking,TERM750,"Adelaide, SA",Fuel Station,9
+TXN743167,2024-01-14,495.31,Supermarket,Credit Card,TERM548,"Adelaide, SA",Dining,6
+TXN236387,2024-02-20,329.26,Supermarket,Cash,TERM725,"Melbourne, VIC",Fuel Station,3
+TXN719806,2024-01-04,283.9,Online Store,Debit Card,TERM251,"Sydney, NSW",Fashion,6
+TXN129307,2024-01-26,38.04,Supermarket,Credit Card,TERM305,"Melbourne, VIC",E-Commerce,5
+TXN600760,2024-02-12,296.71,Electronics,UPI,TERM613,"Brisbane, QLD",E-Commerce,6
+TXN402203,2024-01-19,117.53,Online Store,Net Banking,TERM381,"Melbourne, VIC",Fuel Station,8
+TXN726688,2024-02-07,495.22,Supermarket,Debit Card,TERM892,"Melbourne, VIC",Electronics,6
+TXN715663,2024-01-08,67.61,Clothing,UPI,TERM452,"Sydney, NSW",Fuel Station,1
+TXN823144,2024-02-14,313.72,Clothing,Credit Card,TERM940,"Sydney, NSW",Dining,5
+TXN724014,2024-01-01,59.02,Restaurant,Debit Card,TERM595,"Adelaide, SA",E-Commerce,9
+TXN623738,2024-01-29,453.26,Supermarket,Credit Card,TERM776,"Melbourne, VIC",Dining,5
+TXN487767,2024-01-18,217.86,Online Store,Debit Card,TERM730,"Perth, WA",Retail Grocery,9
+TXN291061,2024-01-10,302.47,Supermarket,Credit Card,TERM385,"Perth, WA",Dining,7
+TXN853921,2024-01-14,463.08,Online Store,Net Banking,TERM443,"Brisbane, QLD",E-Commerce,2
+TXN584029,2024-02-17,238.38,Electronics,Net Banking,TERM222,"Brisbane, QLD",Dining,6
+TXN202261,2024-01-09,255.73,Electronics,Debit Card,TERM196,"Adelaide, SA",Fashion,5
+TXN563439,2024-01-15,234.2,Online Store,Debit Card,TERM478,"Brisbane, QLD",Dining,9
+TXN429681,2024-01-27,410.24,Supermarket,Net Banking,TERM860,"Adelaide, SA",Fashion,1
+TXN780687,2024-01-09,412.25,Supermarket,UPI,TERM283,"Sydney, NSW",Electronics,4
+TXN136823,2024-01-19,118.74,Clothing,Net Banking,TERM764,"Perth, WA",Retail Grocery,6
+TXN891725,2024-01-16,207.7,Online Store,UPI,TERM409,"Sydney, NSW",Retail Grocery,8
+TXN398129,2024-01-13,126.13,Online Store,Net Banking,TERM510,"Melbourne, VIC",Fuel Station,3
+TXN628987,2024-02-16,177.5,Online Store,Credit Card,TERM304,"Adelaide, SA",Dining,2
+TXN263330,2024-02-19,66.74,Online Store,Credit Card,TERM813,"Melbourne, VIC",Dining,8
+TXN849755,2024-01-05,192.36,Restaurant,Credit Card,TERM257,"Melbourne, VIC",Electronics,9
+TXN872438,2024-01-05,252.32,Clothing,UPI,TERM177,"Brisbane, QLD",E-Commerce,8
+TXN884153,2024-01-11,407.82,Online Store,Debit Card,TERM426,"Perth, WA",Electronics,4
+TXN396738,2024-02-16,292.82,Online Store,UPI,TERM924,"Brisbane, QLD",Dining,2
+TXN743852,2024-02-12,266.92,Online Store,Credit Card,TERM405,"Melbourne, VIC",Dining,3
+TXN198759,2024-02-02,441.88,Online Store,Cash,TERM816,"Brisbane, QLD",Dining,5
+TXN958755,2024-02-14,274.32,Restaurant,UPI,TERM916,"Brisbane, QLD",Dining,1
+TXN948963,2024-01-21,288.42,Electronics,Net Banking,TERM888,"Brisbane, QLD",E-Commerce,9
+TXN937960,2024-01-16,223.44,Supermarket,Net Banking,TERM853,"Perth, WA",Retail Grocery,10
+TXN948189,2024-01-04,215.58,Restaurant,Cash,TERM452,"Brisbane, QLD",Fuel Station,1
+TXN708185,2024-02-03,364.22,Supermarket,Credit Card,TERM625,"Perth, WA",Fashion,9
+TXN282357,2024-02-12,74.33,Online Store,Credit Card,TERM227,"Perth, WA",E-Commerce,2
+TXN356819,2024-01-02,34.89,Electronics,Debit Card,TERM337,"Brisbane, QLD",Retail Grocery,4
+TXN896504,2024-01-31,413.31,Restaurant,UPI,TERM130,"Melbourne, VIC",Dining,2
+TXN906514,2024-01-23,454.2,Clothing,Net Banking,TERM189,"Adelaide, SA",E-Commerce,5
+TXN764265,2024-02-16,111.65,Restaurant,Net Banking,TERM636,"Perth, WA",Retail Grocery,6
+TXN731287,2024-01-06,477.94,Clothing,Net Banking,TERM115,"Brisbane, QLD",Fuel Station,4
+TXN970422,2024-01-10,239.85,Electronics,Debit Card,TERM996,"Sydney, NSW",Dining,2
+TXN780080,2024-01-05,308.71,Restaurant,Net Banking,TERM770,"Adelaide, SA",Electronics,5
+TXN358849,2024-01-17,183.8,Online Store,Cash,TERM966,"Adelaide, SA",Fuel Station,5
+TXN714545,2024-02-10,450.17,Supermarket,Debit Card,TERM524,"Sydney, NSW",Fashion,4
+TXN272292,2024-01-13,459.88,Online Store,Credit Card,TERM537,"Perth, WA",Fashion,6
+TXN288355,2024-01-08,385.96,Supermarket,Net Banking,TERM684,"Melbourne, VIC",Electronics,1
+TXN628225,2024-01-18,323.59,Supermarket,Net Banking,TERM528,"Perth, WA",Dining,2
+TXN457691,2024-01-14,286.07,Online Store,Cash,TERM301,"Melbourne, VIC",Retail Grocery,1
+TXN653004,2024-01-25,465.4,Online Store,Cash,TERM489,"Perth, WA",E-Commerce,10
+TXN848442,2024-01-08,166.86,Online Store,Net Banking,TERM794,"Brisbane, QLD",E-Commerce,3
+TXN366431,2024-01-30,80.15,Restaurant,Cash,TERM830,"Sydney, NSW",Retail Grocery,8
+TXN899785,2024-02-02,208.23,Restaurant,Cash,TERM176,"Sydney, NSW",Fashion,1
+TXN214014,2024-01-06,93.82,Restaurant,Debit Card,TERM811,"Adelaide, SA",Fashion,4
+TXN742644,2024-01-22,491.25,Restaurant,Credit Card,TERM813,"Brisbane, QLD",Retail Grocery,8
+TXN790255,2024-01-21,283.11,Supermarket,Debit Card,TERM138,"Perth, WA",E-Commerce,5
+TXN265466,2024-01-27,164.9,Restaurant,UPI,TERM894,"Adelaide, SA",E-Commerce,10
+TXN598446,2024-02-12,173.15,Supermarket,Debit Card,TERM526,"Brisbane, QLD",Retail Grocery,10
+TXN928200,2024-01-17,190.75,Electronics,Debit Card,TERM906,"Sydney, NSW",Dining,4
+TXN441536,2024-01-22,161.0,Supermarket,Debit Card,TERM455,"Sydney, NSW",Retail Grocery,10
+TXN798047,2024-02-08,144.9,Electronics,UPI,TERM513,"Brisbane, QLD",Electronics,10
+TXN565175,2024-02-15,370.83,Electronics,UPI,TERM222,"Melbourne, VIC",Electronics,9
+TXN185443,2024-02-02,343.52,Online Store,UPI,TERM268,"Melbourne, VIC",Fashion,1
+TXN770815,2024-01-10,30.72,Restaurant,Cash,TERM659,"Brisbane, QLD",Fashion,4
+TXN859718,2024-02-11,230.29,Online Store,Debit Card,TERM831,"Sydney, NSW",Retail Grocery,2
+TXN979243,2024-01-22,315.47,Restaurant,Debit Card,TERM657,"Adelaide, SA",Fuel Station,3
+TXN574728,2024-02-07,125.28,Online Store,Cash,TERM889,"Perth, WA",Dining,1
+TXN430308,2024-02-07,230.08,Electronics,Debit Card,TERM676,"Adelaide, SA",Dining,8
+TXN453259,2024-01-29,224.67,Clothing,Cash,TERM492,"Perth, WA",Dining,6
+TXN271325,2024-02-20,459.53,Restaurant,Net Banking,TERM477,"Sydney, NSW",Fuel Station,3
+TXN173141,2024-01-11,496.02,Online Store,Debit Card,TERM381,"Melbourne, VIC",Retail Grocery,4
+TXN420718,2024-01-02,426.2,Restaurant,Cash,TERM354,"Perth, WA",E-Commerce,6
+TXN688196,2024-01-14,311.09,Online Store,Cash,TERM286,"Melbourne, VIC",Electronics,7
+TXN547202,2024-01-16,418.26,Clothing,Cash,TERM811,"Sydney, NSW",Fuel Station,6
+TXN665947,2024-01-15,202.79,Restaurant,Cash,TERM388,"Melbourne, VIC",Fashion,10
+TXN611152,2024-01-01,44.57,Online Store,Net Banking,TERM625,"Brisbane, QLD",E-Commerce,1
+TXN465381,2024-02-09,370.62,Online Store,Debit Card,TERM648,"Adelaide, SA",Retail Grocery,4
+TXN179400,2024-01-31,68.24,Clothing,Cash,TERM649,"Melbourne, VIC",Fuel Station,5
+TXN196378,2024-02-13,22.39,Supermarket,Net Banking,TERM357,"Sydney, NSW",Dining,7
+TXN219643,2024-02-11,147.78,Online Store,Net Banking,TERM104,"Brisbane, QLD",Fashion,5
+TXN259216,2024-01-02,56.16,Supermarket,Debit Card,TERM677,"Sydney, NSW",Fashion,4
+TXN196595,2024-01-09,472.99,Online Store,UPI,TERM723,"Melbourne, VIC",Dining,4
+TXN398795,2024-02-09,206.4,Clothing,Credit Card,TERM623,"Brisbane, QLD",Retail Grocery,4
+TXN745920,2024-02-10,349.45,Restaurant,Cash,TERM141,"Brisbane, QLD",Fashion,2
+TXN883868,2024-01-12,465.33,Online Store,Net Banking,TERM422,"Brisbane, QLD",E-Commerce,3
+TXN940558,2024-01-28,57.24,Restaurant,Credit Card,TERM143,"Sydney, NSW",Dining,7
+TXN106576,2024-01-04,494.64,Online Store,UPI,TERM713,"Perth, WA",Fuel Station,3
+TXN830608,2024-02-06,171.17,Online Store,Debit Card,TERM305,"Sydney, NSW",Dining,9
+TXN308156,2024-01-19,255.75,Online Store,Cash,TERM991,"Perth, WA",Electronics,1
+TXN243248,2024-01-09,340.17,Supermarket,Cash,TERM778,"Melbourne, VIC",Retail Grocery,4
+TXN273115,2024-01-27,174.78,Restaurant,Debit Card,TERM115,"Brisbane, QLD",Fashion,9
+TXN126807,2024-01-05,499.71,Supermarket,Debit Card,TERM749,"Brisbane, QLD",Retail Grocery,1
+TXN338536,2024-02-05,125.53,Clothing,Cash,TERM970,"Adelaide, SA",Fashion,5
+TXN637025,2024-02-12,477.42,Clothing,Cash,TERM913,"Sydney, NSW",E-Commerce,6
+TXN954976,2024-01-12,399.74,Clothing,Cash,TERM437,"Perth, WA",Fuel Station,5
+TXN108266,2024-01-04,184.11,Clothing,Debit Card,TERM242,"Melbourne, VIC",Fuel Station,10
+TXN715323,2024-02-07,118.26,Online Store,Net Banking,TERM839,"Perth, WA",Fashion,7
+TXN698908,2024-02-19,112.76,Electronics,Cash,TERM652,"Melbourne, VIC",Fashion,9
+TXN347622,2024-01-14,265.05,Online Store,Cash,TERM731,"Melbourne, VIC",E-Commerce,4
+TXN855260,2024-01-02,345.61,Electronics,Cash,TERM480,"Sydney, NSW",Fashion,3
+TXN511758,2024-01-09,464.01,Online Store,UPI,TERM164,"Melbourne, VIC",E-Commerce,8
+TXN143080,2024-01-22,400.25,Clothing,Net Banking,TERM975,"Melbourne, VIC",Dining,7
+TXN592345,2024-02-02,476.05,Clothing,Cash,TERM415,"Adelaide, SA",Retail Grocery,8
+TXN589326,2024-01-30,130.51,Online Store,Net Banking,TERM570,"Perth, WA",Fuel Station,4
+TXN387457,2024-02-20,453.75,Online Store,Net Banking,TERM992,"Perth, WA",E-Commerce,5
+TXN629731,2024-02-06,175.03,Restaurant,Credit Card,TERM412,"Perth, WA",Retail Grocery,6
+TXN204066,2024-02-13,205.29,Clothing,Net Banking,TERM790,"Brisbane, QLD",Fuel Station,7
+TXN766316,2024-02-18,446.83,Restaurant,Net Banking,TERM846,"Brisbane, QLD",Retail Grocery,6
+TXN410484,2024-01-31,254.74,Restaurant,Cash,TERM425,"Melbourne, VIC",Electronics,9
+TXN859867,2024-02-06,457.2,Restaurant,Cash,TERM144,"Adelaide, SA",Retail Grocery,2
+TXN173078,2024-01-26,91.85,Restaurant,UPI,TERM809,"Perth, WA",Dining,5
+TXN288231,2024-02-03,282.32,Electronics,Cash,TERM666,"Melbourne, VIC",Fashion,4
+TXN844576,2024-01-26,343.29,Supermarket,Debit Card,TERM415,"Adelaide, SA",E-Commerce,4
+TXN114642,2024-01-24,485.82,Supermarket,UPI,TERM687,"Perth, WA",E-Commerce,9
+TXN184869,2024-01-16,213.44,Clothing,Net Banking,TERM350,"Melbourne, VIC",E-Commerce,6
+TXN720608,2024-01-09,393.47,Electronics,UPI,TERM541,"Perth, WA",E-Commerce,7
+TXN606468,2024-02-19,264.97,Online Store,Debit Card,TERM102,"Sydney, NSW",Fuel Station,1
+TXN335249,2024-01-12,220.28,Clothing,Credit Card,TERM258,"Sydney, NSW",Fuel Station,9
+TXN478038,2024-02-09,144.89,Restaurant,Debit Card,TERM868,"Sydney, NSW",Dining,9
+TXN185054,2024-02-10,211.21,Online Store,Net Banking,TERM870,"Perth, WA",Dining,1
+TXN645746,2024-01-05,223.31,Electronics,UPI,TERM951,"Perth, WA",Retail Grocery,2
+TXN537491,2024-01-12,63.86,Supermarket,Credit Card,TERM421,"Adelaide, SA",E-Commerce,4
+TXN924705,2024-01-01,364.43,Supermarket,Debit Card,TERM614,"Adelaide, SA",E-Commerce,1
+TXN582298,2024-01-23,355.48,Online Store,UPI,TERM862,"Perth, WA",Dining,8
+TXN878960,2024-01-19,225.4,Supermarket,Net Banking,TERM287,"Brisbane, QLD",Retail Grocery,3
+TXN252068,2024-01-31,153.2,Online Store,Cash,TERM843,"Perth, WA",E-Commerce,6
+TXN422671,2024-02-15,152.68,Electronics,Net Banking,TERM860,"Adelaide, SA",Dining,7
+TXN705936,2024-01-03,75.58,Restaurant,Cash,TERM308,"Perth, WA",Retail Grocery,8
+TXN757362,2024-01-04,343.87,Electronics,Cash,TERM695,"Perth, WA",Fashion,9
+TXN222111,2024-01-23,378.34,Electronics,Debit Card,TERM670,"Melbourne, VIC",Retail Grocery,5
+TXN564971,2024-01-11,386.13,Clothing,Debit Card,TERM958,"Sydney, NSW",Dining,3
+TXN848195,2024-01-20,453.64,Clothing,UPI,TERM226,"Sydney, NSW",Retail Grocery,9
+TXN589071,2024-01-01,339.25,Electronics,Net Banking,TERM872,"Melbourne, VIC",Fashion,1
+TXN306505,2024-01-16,473.21,Online Store,Cash,TERM381,"Adelaide, SA",E-Commerce,9
+TXN737588,2024-02-15,6.32,Restaurant,Credit Card,TERM883,"Melbourne, VIC",E-Commerce,10
+TXN642425,2024-02-05,222.73,Clothing,Net Banking,TERM835,"Melbourne, VIC",Electronics,4
+TXN503202,2024-01-31,402.76,Restaurant,Cash,TERM254,"Melbourne, VIC",Retail Grocery,8
+TXN335844,2024-01-19,161.72,Electronics,Net Banking,TERM184,"Brisbane, QLD",Fashion,4
+TXN849896,2024-01-13,369.77,Clothing,Credit Card,TERM916,"Sydney, NSW",Electronics,2
+TXN104466,2024-02-08,473.79,Clothing,Debit Card,TERM735,"Sydney, NSW",E-Commerce,6
+TXN969801,2024-01-21,442.26,Restaurant,Net Banking,TERM236,"Perth, WA",Fuel Station,1
+TXN837041,2024-02-07,458.44,Supermarket,Net Banking,TERM813,"Sydney, NSW",Electronics,6
+TXN116327,2024-02-11,310.78,Supermarket,Net Banking,TERM664,"Sydney, NSW",Fashion,6
+TXN500588,2024-01-23,295.27,Online Store,Cash,TERM419,"Perth, WA",Fashion,7
+TXN700929,2024-01-30,33.32,Electronics,Credit Card,TERM234,"Adelaide, SA",Fuel Station,10
+TXN931413,2024-02-03,278.51,Supermarket,Debit Card,TERM507,"Melbourne, VIC",Dining,8
+TXN345610,2024-02-16,327.27,Clothing,Net Banking,TERM359,"Perth, WA",Dining,7
+TXN352590,2024-02-10,324.2,Restaurant,UPI,TERM973,"Brisbane, QLD",Fashion,4
+TXN404219,2024-01-01,31.26,Restaurant,Net Banking,TERM717,"Perth, WA",Electronics,7
+TXN143894,2024-02-11,461.9,Restaurant,Credit Card,TERM691,"Perth, WA",E-Commerce,7
+TXN246418,2024-01-09,394.43,Online Store,Debit Card,TERM131,"Perth, WA",Retail Grocery,10
+TXN591861,2024-01-11,89.17,Clothing,UPI,TERM329,"Melbourne, VIC",Electronics,3
+TXN209007,2024-02-14,236.77,Electronics,Cash,TERM395,"Adelaide, SA",Electronics,3
+TXN558047,2024-02-05,363.43,Electronics,Net Banking,TERM443,"Sydney, NSW",E-Commerce,8
+TXN793551,2024-02-19,256.94,Electronics,Credit Card,TERM553,"Brisbane, QLD",Retail Grocery,5
+TXN163479,2024-01-15,347.69,Restaurant,Credit Card,TERM743,"Perth, WA",Retail Grocery,10
+TXN237865,2024-02-15,340.22,Online Store,Cash,TERM542,"Brisbane, QLD",Fuel Station,3
+TXN248417,2024-02-19,316.08,Restaurant,Credit Card,TERM503,"Adelaide, SA",Fuel Station,5
+TXN333546,2024-01-15,277.92,Clothing,Cash,TERM163,"Adelaide, SA",Dining,3
+TXN844731,2024-01-31,364.11,Restaurant,Debit Card,TERM630,"Sydney, NSW",Dining,7
+TXN281339,2024-01-16,370.73,Restaurant,UPI,TERM539,"Brisbane, QLD",Retail Grocery,2
+TXN750404,2024-02-18,19.39,Clothing,Cash,TERM785,"Brisbane, QLD",Fashion,7
+TXN626157,2024-02-19,140.93,Supermarket,Cash,TERM989,"Adelaide, SA",Fuel Station,2
+TXN588946,2024-01-10,418.86,Electronics,Cash,TERM497,"Melbourne, VIC",E-Commerce,4
+TXN433960,2024-01-23,143.67,Clothing,Net Banking,TERM508,"Adelaide, SA",Electronics,10
+TXN284316,2024-01-25,309.02,Supermarket,Cash,TERM761,"Adelaide, SA",Fuel Station,8
+TXN263709,2024-02-14,50.06,Online Store,UPI,TERM449,"Melbourne, VIC",Fuel Station,8
+TXN179210,2024-02-20,448.06,Restaurant,UPI,TERM129,"Adelaide, SA",Fuel Station,10
