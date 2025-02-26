@@ -1,0 +1,13 @@
+{
+    "gcs_bucket_name": "bank-retail-transactions",
+    "raw_folder": "raw/",
+    "processed_folder": "processed/",
+    "unix_server": "unix.server.address",
+    "username": "your_username",
+    "private_key_path": "/path/to/private/key",
+    "sftp_port": "22",
+    "remote_path": "/path/to/transactions/",
+    "local_temp_path": "/tmp/",
+    "bigquery_dataset": "bank_dataset",
+    "bigquery_table": "retail_transactions"
+}
