@@ -5,7 +5,7 @@ This project is designed to automate the ingestion, storage, transformation, and
 
 ## Architecture
 ### Diagram
-![alt text](GCP_ETL.drawio.png "Architecture")
+![alt text](img.png "Architecture")
 
 
 ### **High-Level Architecture Diagram**
@@ -59,7 +59,7 @@ This project is deployed using **Terraform** for infrastructure provisioning.
    git clone https://github.com/jagadish-pallapolu/data_engineering_etl_pipeline.git
    cd data_engineering_etl_pipeline
    ```
-2. Initialize and apply Terraform:
+2. Initialize and apply Terraform: (optional)
    ```sh
    cd terraform
    terraform init

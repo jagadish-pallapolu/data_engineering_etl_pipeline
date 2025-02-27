@@ -1,110 +1,106 @@
 # Import necessary libraries
-from google.cloud import storage, bigquery
 from airflow import DAG
+from airflow.providers.google.cloud.transfers.sftp_to_gcs import SFTPToGCSOperator
+from airflow.providers.google.cloud.transfers.local_to_gcs import LocalFilesystemToGCSOperator
+from airflow.providers.google.cloud.operators.bigquery import BigQueryInsertJobOperator
 from airflow.operators.python import PythonOperator
-from airflow.utils.dates import days_ago
-import paramiko
-import os
+from google.cloud import storage, bigquery
+import pandas as pd
+from datetime import datetime, timedelta
 
-# --------------------------
-# Configuration Variables
-# --------------------------
-BUCKET_NAME = 'bank-retail-transactions'
-RAW_FOLDER = 'raw/'
-PROCESSED_FOLDER = 'processed/'
-UNIX_SERVER = 'unix.server.address'
-USERNAME = 'your_username'
-PRIVATE_KEY_PATH = '/path/to/private/key'
-SFTP_PORT = 22
-REMOTE_PATH = '/path/to/transactions/'
-LOCAL_TEMP_PATH = '/tmp/'
-DATASET_ID = 'bank_dataset'
-TABLE_ID = 'retail_transactions'
+# Default arguments for Airflow DAG
+default_args = {
+    'owner': 'airflow',
+    'depends_on_past': False,
+    'start_date': datetime(2025, 2, 1),
+    'retries': 1,
+    'retry_delay': timedelta(minutes=5),
+}
 
-# ------------------------------------------
-# You can also import variables from airflow
-# ------------------------------------------
-# from airflow.models import Variable
+dag = DAG(
+    'modern_data_stack_pipeline',
+    default_args=default_args,
+    schedule_interval='@daily',  # Runs daily for transaction data
+    catchup=False
+)
 
-# BUCKET_NAME = Variable.get("gcs_bucket_name")
-# RAW_FOLDER = Variable.get("raw_folder")
-# UNIX_SERVER = Variable.get("unix_server")
-# BIGQUERY_DATASET = Variable.get("bigquery_dataset")
-#
-# print(f"Data will be stored in {BUCKET_NAME}/{RAW_FOLDER}")
+# Step 1: Ingest Retail Transaction Data from On-Prem to GCS
+upload_transactions = LocalFilesystemToGCSOperator(
+    task_id='upload_transactions_to_gcs',
+    src='/path/to/transactions/*.csv',  # Assuming CSV files are generated daily
+    dst='raw/transactions/',
+    bucket='your-gcs-bucket',
+    gcp_conn_id='google_cloud_default',
+    dag=dag
+)
 
+# Step 2: Ingest Macroeconomic Data from SFTP to GCS
+upload_macro_data = SFTPToGCSOperator(
+    task_id='upload_macro_data_to_gcs',
+    source_path='/sftp/path/macro_data.csv',
+    destination_bucket='your-gcs-bucket',
+    destination_path='raw/macro/',
+    sftp_conn_id='sftp_default',
+    gcp_conn_id='google_cloud_default',
+    dag=dag
+)
 
-# --------------------------
-# Ingestion Function: Upload from UNIX to GCS
-# --------------------------
-def ingest_transaction_data():
-    ssh = paramiko.SSHClient()
-    ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-    try:
-        ssh.connect(UNIX_SERVER, port=SFTP_PORT, username=USERNAME, key_filename=PRIVATE_KEY_PATH)
-        sftp = ssh.open_sftp()
-        files = sftp.listdir(REMOTE_PATH)
-        storage_client = storage.Client()
-        bucket = storage_client.bucket(BUCKET_NAME)
+# Step 3: Load Data into BigQuery
+load_transactions_to_bq = BigQueryInsertJobOperator(
+    task_id='load_transactions_to_bq',
+    sql="""
+    CREATE OR REPLACE TABLE `your_project.dataset.transactions`
+    AS SELECT * FROM `your_project.dataset.raw_transactions`
+    """,
+    use_legacy_sql=False,
+    gcp_conn_id='google_cloud_default',
+    dag=dag
+)
 
-        for file in files:
-            local_file_path = os.path.join(LOCAL_TEMP_PATH, file)
-            remote_file_path = os.path.join(REMOTE_PATH, file)
-            sftp.get(remote_file_path, local_file_path)
-            blob = bucket.blob(f'{RAW_FOLDER}{file}')
-            blob.upload_from_filename(local_file_path)
-            os.remove(local_file_path)
+load_macro_to_bq = BigQueryInsertJobOperator(
+    task_id='load_macro_to_bq',
+    sql="""
+    CREATE OR REPLACE TABLE `your_project.dataset.macro`
+    AS SELECT * FROM `your_project.dataset.raw_macro`
+    """,
+    use_legacy_sql=False,
+    gcp_conn_id='google_cloud_default',
+    dag=dag
+)
 
-        sftp.close()
-    finally:
-        ssh.close()
-
-# --------------------------
-# Transformation Function: Load and Process in BigQuery
-# --------------------------
-def transform_data():
+# Step 4: Validate Data Before Transformation
+def validate_data():
     client = bigquery.Client()
-    job_config = bigquery.LoadJobConfig(
-        source_format=bigquery.SourceFormat.CSV,
-        skip_leading_rows=1,
-        autodetect=True
-    )
+    query = """
+    SELECT COUNT(*) as row_count FROM `your_project.dataset.transactions`
+    WHERE transaction_date IS NULL OR amount IS NULL;
+    """
+    results = client.query(query).result()
+    for row in results:
+        if row.row_count > 0:
+            raise ValueError("Data validation failed: NULL values detected in transactions table")
 
-    uri = f'gs://{BUCKET_NAME}/{RAW_FOLDER}*'
-    load_job = client.load_table_from_uri(uri, f'{DATASET_ID}.{TABLE_ID}', job_config=job_config)
-    load_job.result()  # Waits for the job to finish
+validate_data_task = PythonOperator(
+    task_id='validate_data',
+    python_callable=validate_data,
+    dag=dag
+)
 
-# --------------------------
-# Airflow DAG Definition
-# --------------------------
-def create_dag():
-    default_args = {
-        'owner': 'airflow',
-        'start_date': days_ago(1),
-        'retries': 1
-    }
+# Step 5: Transform Data in BigQuery using dbt or SQL
+transform_data = BigQueryInsertJobOperator(
+    task_id='transform_data',
+    sql="""
+    CREATE OR REPLACE TABLE `your_project.dataset.enriched_transactions` AS
+    SELECT t.*, m.cash_rate, m.unemployment_rate
+    FROM `your_project.dataset.transactions` t
+    LEFT JOIN `your_project.dataset.macro` m
+    ON t.transaction_date = m.date;
+    """,
+    use_legacy_sql=False,
+    gcp_conn_id='google_cloud_default',
+    dag=dag
+)
 
-    dag = DAG(
-        'transaction_data_pipeline',
-        default_args=default_args,
-        schedule_interval='@daily',
-        catchup=False
-    )
-
-    ingestion_task = PythonOperator(
-        task_id='ingest_transaction_data',
-        python_callable=ingest_transaction_data,
-        dag=dag
-    )
-
-    transformation_task = PythonOperator(
-        task_id='transform_data',
-        python_callable=transform_data,
-        dag=dag
-    )
-
-    ingestion_task >> transformation_task
-    return dag
-
-# Instantiate DAG
-dag = create_dag()
+# Step 6: Define Task Dependencies
+upload_transactions >> load_transactions_to_bq >> validate_data_task >> transform_data
+upload_macro_data >> load_macro_to_bq >> transform_data
