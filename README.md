@@ -30,12 +30,11 @@ This project is designed to automate the ingestion, storage, transformation, and
 | Indicators)      |
 +-------------------+
 ```
-
-## Components
+The solution consists of the following components:
 ### 1. **Data Ingestion**
-   - Transaction data is fetched daily from a UNIX server via SFTP.
+   - Retail transaction data from an on-prem UNIX server is uploaded daily to Google Cloud Storage (GCS) using gcloud or gsutil.
    - The ingested data (CSV format) is stored in **Google Cloud Storage (GCS)** under a `raw/` folder.
-   - Macroeconomics indicators are sourced monthly via SFTP from an external vendor.
+   - Macroeconomics indicators are sourced monthly via SFTP from an external vendor and uploaded to GCS using cloud function.
 
 ### 2. **Storage**
    - **Google Cloud Storage (GCS):** Used to store raw and processed transaction data.
@@ -50,8 +49,19 @@ This project is designed to automate the ingestion, storage, transformation, and
    - **Cloud Composer (Airflow)** schedules and manages the data pipeline.
    - DAGs ensure ingestion, transformation, and reporting tasks run automatically.
 
-## Deployment
-This project is deployed using **Terraform** for infrastructure provisioning.
+## Components & Technologies
+- **Google Cloud Storage (GCS)**: Stores raw data.
+- **Google BigQuery**: Data warehouse for analytics.
+- **Apache Airflow (Cloud Composer)**: Orchestration.
+- **SFTP**: External data source integration.
+- **Python**: Custom scripts for ingestion and validation.
+
+## Setup & Deployment
+
+### Prerequisites
+1. Google Cloud Platform (GCP) account.
+2. Enabled services: BigQuery, Cloud Storage, Cloud Composer.
+3. Apache Airflow installed (if running locally).
 
 ### **Steps to Deploy**
 1. Clone the repository:
@@ -59,18 +69,17 @@ This project is deployed using **Terraform** for infrastructure provisioning.
    git clone https://github.com/jagadish-pallapolu/data_engineering_etl_pipeline.git
    cd data_engineering_etl_pipeline
    ```
-2. Initialize and apply Terraform: (optional)
-   ```sh
-   cd terraform
-   terraform init
-   terraform apply
+2. Set up GCP resources:
+   - Create a GCS bucket.
+   - Set up a BigQuery dataset.
+3. Deploy Airflow DAGs:
+   - Configure DAGs in `airflow/dags/` and upload to Cloud Composer.
+4. Run the pipeline:
+   - Trigger the DAG via Airflow UI or CLI.
+   ```bash
+   airflow dags trigger modern_data_stack_pipeline
    ```
-3. Install Python Packages for Local setup
-   ```sh
-   pip install requirments.txt
-   ```
-4. Verify Cloud Composer, GCS, and BigQuery resources are created.
-5. Deploy Airflow DAGs by copying them to the Composer environment.
+5. Verify Cloud Composer, GCS, and BigQuery resources are created.
 
 ## Repository Structure
 ```
@@ -98,3 +107,5 @@ This project is deployed using **Terraform** for infrastructure provisioning.
 ## License
 This project is open-source and licensed under the MIT License.
 
+## Contact
+For any questions, please reach out to [jagadish.pallapolu@gmail.com].
